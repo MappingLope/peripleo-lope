@@ -20,13 +20,13 @@ const Welcome = props => {
   return ReactDOM.createPortal(
     <div className="p6o-welcome-wrapper">
       <div className="p6o-welcome">
-        <h1>¡Bienvenidas y bienvenidos!</h1>
+        <h1>¡Hola!</h1>
 
         <p className="p6o-welcome-intro">
-          Este mapa permite explorar los topónimos mencionados en el corpus de comedias de Lope de Vega (Madrid, 1562-1635). Son más de 800 nombres de imperios, reinos, ciudades, villas, parques, calles, edificios y accidentes geográficos, detectados en 338 obras (21 comedias más serán agregadas próximamente).
+          Este mapa permite explorar los topónimos mencionados en el corpus de comedias de Lope de Vega (Madrid, 1562-1635). Son más de 1000 nombres de imperios, reinos, ciudades, villas, parques, calles, edificios y accidentes geográficos, detectados en 364 obras.
         </p>
         <p>
-          Se basa en el <a href="https://github.com/sib-swiss/dh-dataviz">código</a> desarrollado por Élisa Nury en el marco del proyecto <a href="https://mark16.sib.swiss/" target="_blank">FNS MARK16 VRE</a>, y en las modificaciones efectuadas por Elina Leblanc para el proyecto <a href="https://desenrollandoelcordel.unige.ch" target="_blank">Desenrollando el cordel</a>, dirigido por la profesora Constance Carta. El código está disponible en <a href="https://github.com/MiguelBetti/Lope_peripleo">GitHub</a> (licencia GPLv3).
+          Desarrollado por Miguel Betti en el marco del proyecto postdoctoral Mapping Lope: A Cartographic Exploration of the Comedia Nueva, se basa en el <a href="https://github.com/sib-swiss/dh-dataviz">código</a> desarrollado por Élisa Nury en el marco del proyecto <a href="https://mark16.sib.swiss/" target="_blank">FNS MARK16 VRE</a>, y en las modificaciones efectuadas por Elina Leblanc para el proyecto <a href="https://desenrollandoelcordel.unige.ch" target="_blank">Desenrollando el cordel</a>. El código está disponible en <a href="https://github.com/MiguelBetti/Lope_peripleo">GitHub</a> (licencia GPLv3).
         </p>
         
         <div className="p6o-welcome-buttons">
