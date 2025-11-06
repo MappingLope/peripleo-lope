@@ -2711,7 +2711,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -2724,7 +2724,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -5926,7 +5926,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -7815,7 +7815,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -12957,7 +12957,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -12970,7 +12970,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -14150,7 +14150,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.4,
+                -0.91166015,
                 41.1165
             ]
         },
@@ -14206,7 +14206,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -2.4,
+                -2.36361320345,
                 37.849462
             ]
         },
@@ -14262,7 +14262,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -1.4,
+                -8.0135603148,
                 38.7689
             ]
         },
@@ -14543,7 +14543,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                0.6,
+                -2.9,
                 41.9833333333333
             ]
         },
@@ -14649,7 +14649,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -14716,7 +14716,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                1.6,
+                -1.1302777777778,
                 37.986111111111
             ]
         },
@@ -14869,20 +14869,20 @@
             "title": "Valencia",
             "occurrences": [
                 {
-                    "value": 422
+                    "value": 423
                 }
             ]
         },
         "geometry": {
             "type": "Point",
             "coordinates": [
-                2.6,
+                -0.376388888888889,
                 39.47
             ]
         },
         "descriptions": [
             {
-                "value": "422 ocurrencia(s)"
+                "value": "423 ocurrencia(s)"
             }
         ],
         "names": [
@@ -15132,6 +15132,19 @@
                 "Book title": "Parte XVIII",
                 "Publication date": "1623",
                 "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Cardenal de Belén y vida de san Jerónimo, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XIII",
+                "Publication date": "1620",
+                "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -15645,7 +15658,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -16011,7 +16024,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                3.6,
+                -1.65,
                 42.816666666667
             ]
         },
@@ -16494,7 +16507,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -16782,7 +16795,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                4.6,
+                1.56666666666667,
                 41.85
             ]
         },
@@ -17085,7 +17098,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                5.6,
+                -3.715,
                 40.4175
             ]
         },
@@ -18764,7 +18777,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -18777,7 +18790,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -19637,7 +19650,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                6.6,
+                -2.93222222222222,
                 43.2619444444444
             ]
         },
@@ -19912,7 +19925,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -19925,7 +19938,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -20070,7 +20083,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                7.6,
+                -5.84777777777778,
                 43.3613888888889
             ]
         },
@@ -20451,7 +20464,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                8.6,
+                -7.9,
                 42.8
             ]
         },
@@ -21007,20 +21020,20 @@
             "title": "Milán",
             "occurrences": [
                 {
-                    "value": 290
+                    "value": 291
                 }
             ]
         },
         "geometry": {
             "type": "Point",
             "coordinates": [
-                10.6,
+                9.19,
                 45.466944444444
             ]
         },
         "descriptions": [
             {
-                "value": "290 ocurrencia(s)"
+                "value": "291 ocurrencia(s)"
             }
         ],
         "names": [
@@ -21519,7 +21532,7 @@
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "3"
+                "occurrences": "4"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -21824,7 +21837,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                11.6,
+                -3.6,
                 37.175
             ]
         },
@@ -22671,7 +22684,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -23076,7 +23089,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                12.6,
+                12.482777777778,
                 41.893055555556
             ]
         },
@@ -25119,7 +25132,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -25132,7 +25145,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -26044,7 +26057,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                14.6,
+                -3.70333333333333,
                 40.4169444444445
             ]
         },
@@ -27021,7 +27034,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -27582,7 +27595,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                15.6,
+                -4.0333333333333,
                 39.866666666667
             ]
         },
@@ -28884,7 +28897,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -29484,7 +29497,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                16.6,
+                -6.15,
                 39.2
             ]
         },
@@ -29644,7 +29657,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                17.6,
+                -6.0908333333333,
                 40.0275
             ]
         },
@@ -29843,7 +29856,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                18.6,
+                -4.78,
                 37.89
             ]
         },
@@ -30900,7 +30913,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                19.6,
+                -3.7888888888889,
                 37.769722222222
             ]
         },
@@ -31190,7 +31203,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                20.6,
+                -4.4166666666667,
                 36.716666666667
             ]
         },
@@ -31389,7 +31402,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                21.6,
+                -4.5596649,
                 37.0183652
             ]
         },
@@ -31536,7 +31549,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                22.6,
+                -9.139016,
                 38.708042
             ]
         },
@@ -31930,7 +31943,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                23.6,
+                -4.7285611111111,
                 41.651980555556
             ]
         },
@@ -32441,7 +32454,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                24.6,
+                -5.66416666666667,
                 40.965
             ]
         },
@@ -33056,7 +33069,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                25.6,
+                -1.65,
                 42.816666666667
             ]
         },
@@ -33294,7 +33307,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                26.6,
+                -3.6997222222222,
                 42.340833333333
             ]
         },
@@ -33636,7 +33649,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                27.6,
+                -9.18333333333333,
                 38.7
             ]
         },
@@ -34405,7 +34418,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -34758,8 +34771,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                28.6,
-                35.8447222222222
+                103.451944444444,
+                35.86166
             ]
         },
         "descriptions": [
@@ -35477,7 +35490,7 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                29.6,
+                83,
                 22.8
             ]
         },
@@ -36939,7 +36952,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -38165,7 +38178,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -41063,7 +41076,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -41652,7 +41665,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -41864,7 +41877,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -44323,7 +44336,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -44336,7 +44349,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -48848,7 +48861,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -48861,7 +48874,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -49632,7 +49645,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -50299,7 +50312,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -51408,7 +51421,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -52439,7 +52452,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -52452,7 +52465,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -53633,7 +53646,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -55114,7 +55127,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -55980,7 +55993,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -56521,7 +56534,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -56843,7 +56856,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -58587,7 +58600,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -59449,7 +59462,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -59462,7 +59475,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -60142,7 +60155,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -61134,7 +61147,7 @@
         ]
     },
     {
-        "@id": "3336900",
+        "@id": "33369001",
         "uuid": "https://www.geonames.org/3336900",
         "type": "Feature",
         "properties": {
@@ -61721,7 +61734,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -63829,7 +63842,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -64324,62 +64337,6 @@
                 "Microgenre": "",
                 "Book title": "Parte VII",
                 "Publication date": "1617",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "323779",
-        "uuid": "https://www.geonames.org/323779",
-        "type": "Feature",
-        "properties": {
-            "title": "Antioquia",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                36.1605555555556,
-                36.2025
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial religioso",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/323779"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Alcaide de Madrid, El",
-                "genre": "Drama",
-                "subgenre": "Historial religioso",
-                "Microgenre": "Hagiográfico y leyenda",
-                "Book title": "Manuscrito",
-                "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
@@ -67008,8 +66965,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -5.9875,
-                37.405
+                -5.8,
+                37
             ]
         },
         "descriptions": [
@@ -67953,7 +67910,7 @@
             "title": "Santiago de Compostela",
             "occurrences": [
                 {
-                    "value": 33
+                    "value": 35
                 }
             ]
         },
@@ -67966,7 +67923,7 @@
         },
         "descriptions": [
             {
-                "value": "33 ocurrencia(s)"
+                "value": "35 ocurrencia(s)"
             }
         ],
         "names": [
@@ -68025,6 +67982,19 @@
                 "Type": "Entidad política",
                 "occurrences": "2"
             },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Benavides, Los",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte II",
+                "Publication date": "1609",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Caballero del milagro, El",
@@ -68062,7 +68032,7 @@
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -69205,7 +69175,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -70420,7 +70390,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -70473,7 +70443,7 @@
         ]
     },
     {
-        "@id": "10861432",
+        "@id": "669037",
         "uuid": "https://www.geonames.org/10861432",
         "type": "Feature",
         "properties": {
@@ -71113,7 +71083,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -72909,7 +72879,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -73372,7 +73342,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -74319,7 +74289,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -75411,7 +75381,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -75519,7 +75489,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -77890,7 +77860,7 @@
             "title": "Monte Parnaso",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 7
                 }
             ]
         },
@@ -77903,7 +77873,7 @@
         },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "7 ocurrencia(s)"
             }
         ],
         "names": [
@@ -77932,6 +77902,32 @@
                 "Book title": "Parte XIV",
                 "Publication date": "1620",
                 "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Del monte sale quien el monte quema",
+                "genre": "Drama",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1625-1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Fábula de Perseo, La",
+                "genre": "Drama",
+                "subgenre": "Mitológico",
+                "Microgenre": "",
+                "Book title": "Parte XVI",
+                "Publication date": "1621",
+                "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
@@ -78669,7 +78665,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -79723,7 +79719,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -80683,7 +80679,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -83738,7 +83734,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -84698,6 +84694,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Barlaán y Josafat (Autógrafo)",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Barlaán y Josafat (Impreso)",
                 "genre": "Drama",
                 "subgenre": "Historial religioso",
@@ -84763,7 +84772,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -85791,7 +85800,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -86219,7 +86228,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -87409,7 +87418,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -88080,7 +88089,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -89544,6 +89553,19 @@
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Arauco domado, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -91027,10 +91049,10 @@
         "uuid": "https://www.geonames.org/323779",
         "type": "Feature",
         "properties": {
-            "title": "Antioquía",
+            "title": "Antioquia",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -91043,7 +91065,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -91063,6 +91085,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Alcaide de Madrid, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Amores de Albanio y Ismenia, Los",
@@ -91690,8 +91725,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                32.610277777778,
-                25.720555555556
+                23.317777777778,
+                38.320833333333 
             ]
         },
         "descriptions": [
@@ -94440,7 +94475,7 @@
         "uuid": "https://www.geonames.org/3373405",
         "type": "Feature",
         "properties": {
-            "title": "Atlántico",
+            "title": "Océano Atlántico",
             "occurrences": [
                 {
                     "value": 9
@@ -94610,8 +94645,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -96.0,
-                19.0
+                -87,
+                15
             ]
         },
         "descriptions": [
@@ -94700,62 +94735,6 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "1050868",
-        "uuid": "https://www.geonames.org/1050868",
-        "type": "Feature",
-        "properties": {
-            "title": "Cathay",
-            "occurrences": [
-                {
-                    "value": 5
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                103.5,
-                35.85
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "5 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Caballeresco",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/1050868"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Angélica en el Catay",
-                "genre": "Drama",
-                "subgenre": "Caballeresco",
-                "Microgenre": "",
-                "Book title": "Parte VIII",
-                "Publication date": "1617",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "5"
             }
         ]
     },
@@ -96509,7 +96488,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -96522,7 +96501,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -96831,8 +96810,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -99.13333333,
-                19.43333333
+                -100,
+                20
             ]
         },
         "descriptions": [
@@ -97330,62 +97309,6 @@
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "3932488",
-        "uuid": "https://www.geonames.org/3932488",
-        "type": "Feature",
-        "properties": {
-            "title": "Pirú",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -76.0,
-                -9.4
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3932488"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Arauco domado, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XX",
-                "Publication date": "1625",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -99517,7 +99440,7 @@
         "uuid": "https://www.geonames.org/1545739",
         "type": "Feature",
         "properties": {
-            "title": "Índico",
+            "title": "Océano Índico",
             "occurrences": [
                 {
                     "value": 4
@@ -101703,7 +101626,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -101923,7 +101846,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -102199,7 +102122,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -103923,62 +103846,6 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "1202950",
-        "uuid": "https://www.geonames.org/1202950",
-        "type": "Feature",
-        "properties": {
-            "title": "Gange",
-            "occurrences": [
-                {
-                    "value": 3
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                90.8333,
-                22.0833
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "3 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial religioso",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/1202950"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Barlaán y Josafat (Autógrafo)",
-                "genre": "Drama",
-                "subgenre": "Historial religioso",
-                "Microgenre": "Hagiográfico y leyenda",
-                "Book title": "Manuscrito",
-                "Publication date": "Sin fecha",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
-                "occurrences": "3"
             }
         ]
     },
@@ -106072,7 +105939,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -108214,7 +108081,7 @@
             "title": "Susa",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -108227,7 +108094,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -108272,6 +108139,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Viuda, casada y doncella, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -108559,7 +108439,7 @@
             "title": "Jerez",
             "occurrences": [
                 {
-                    "value": 42
+                    "value": 43
                 }
             ]
         },
@@ -108572,7 +108452,7 @@
         },
         "descriptions": [
             {
-                "value": "42 ocurrencia(s)"
+                "value": "43 ocurrencia(s)"
             }
         ],
         "names": [
@@ -108669,6 +108549,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Guanches de Tenerife y conquista de Canaria, Los",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte X",
+                "Publication date": "1618",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -110117,62 +110010,6 @@
                 "Publication date": "Sin fecha",
                 "Date": "1620-1634",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6357346",
-        "uuid": "https://www.geonames.org/6357346",
-        "type": "Feature",
-        "properties": {
-            "title": "Santiago",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -8.5333333333333,
-                42.883333333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6357346"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Benavides, Los",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos particulares",
-                "Book title": "Parte II",
-                "Publication date": "1609",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             }
@@ -113118,8 +112955,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -104.42326,
-                23.21386
+                -97.868611111111,
+                22.255277777778
             ]
         },
         "descriptions": [
@@ -114078,7 +113915,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -114328,7 +114165,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -115076,7 +114913,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -119774,7 +119611,7 @@
         "uuid": "https://www.geonames.org/2522836",
         "type": "Feature",
         "properties": {
-            "title": "Tirreno",
+            "title": "Mar Tirreno",
             "occurrences": [
                 {
                     "value": 1
@@ -121413,62 +121250,6 @@
         ]
     },
     {
-        "@id": "6362115",
-        "uuid": "https://www.geonames.org/6362115",
-        "type": "Feature",
-        "properties": {
-            "title": "valencia",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -0.376388888888889,
-                39.47
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial religioso",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6362115"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Cardenal de Belén y vida de san Jerónimo, El",
-                "genre": "Drama",
-                "subgenre": "Historial religioso",
-                "Microgenre": "Hagiográfico y leyenda",
-                "Book title": "Parte XIII",
-                "Publication date": "1620",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "97626464",
         "uuid": "https://www.geonames.org/97626464",
         "type": "Feature",
@@ -121709,62 +121490,6 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2990440",
-        "uuid": "https://www.geonames.org/2990440",
-        "type": "Feature",
-        "properties": {
-            "title": "Nisa",
-            "occurrences": [
-                {
-                    "value": 4
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                7.2683333333333,
-                43.701944444444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "4 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2990440"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Carlos Quinto en Francia",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XIX",
-                "Publication date": "1624",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "4"
             }
         ]
     },
@@ -122501,7 +122226,7 @@
             "title": "Niza",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 6
                 }
             ]
         },
@@ -122545,7 +122270,7 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "5"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -122952,62 +122677,6 @@
         ]
     },
     {
-        "@id": "6357346",
-        "uuid": "https://www.geonames.org/6357346",
-        "type": "Feature",
-        "properties": {
-            "title": "Compostela",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -8.5333333333333,
-                42.883333333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6357346"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Casamiento en la muerte, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos particulares",
-                "Book title": "Parte I",
-                "Publication date": "1604",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "3119145",
         "uuid": "https://www.geonames.org/3119145",
         "type": "Feature",
@@ -123081,7 +122750,7 @@
         "uuid": "https://www.geonames.org/363196",
         "type": "Feature",
         "properties": {
-            "title": "Mediterráneo",
+            "title": "Mar Mediterráneo",
             "occurrences": [
                 {
                     "value": 5
@@ -125774,7 +125443,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -126137,7 +125806,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -129033,7 +128702,7 @@
         "uuid": "https://www.geonames.org/3054643",
         "type": "Feature",
         "properties": {
-            "title": "Budapest",
+            "title": "Buda",
             "occurrences": [
                 {
                     "value": 8
@@ -129179,7 +128848,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -129210,7 +128879,7 @@
         "uuid": "https://www.geonames.org/3644768",
         "type": "Feature",
         "properties": {
-            "title": "Cumana",
+            "title": "Cumaná",
             "occurrences": [
                 {
                     "value": 1
@@ -130167,75 +129836,6 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "255730",
-        "uuid": "https://www.geonames.org/255730",
-        "type": "Feature",
-        "properties": {
-            "title": "monte Parnaso",
-            "occurrences": [
-                {
-                    "value": 2
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                22.6167,
-                38.533
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "2 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Palatino",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/255730"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Del monte sale quien el monte quema",
-                "genre": "Drama",
-                "subgenre": "Palatino",
-                "Microgenre": "",
-                "Book title": "Manuscrito",
-                "Publication date": "Sin fecha",
-                "Date": "1625-1629",
-                "Period": "Senectud (c. 1630-1635)",
-                "Type": "Accidente geográfico",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Fábula de Perseo, La",
-                "genre": "Drama",
-                "subgenre": "Mitológico",
-                "Microgenre": "",
-                "Book title": "Parte XVI",
-                "Publication date": "1621",
-                "Date": "1610-1624",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
         ]
@@ -132683,7 +132283,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La ocasión perdida",
+                "title": "Ocasión perdida, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -137762,7 +137362,7 @@
         ]
     },
     {
-        "@id": "253394",
+        "@id": "570685",
         "uuid": "https://www.geonames.org/253394",
         "type": "Feature",
         "properties": {
@@ -137776,8 +137376,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                22.423611111111,
-                37.081944444444
+                22.44,
+                37.09
             ]
         },
         "descriptions": [
@@ -138131,62 +137731,6 @@
             {
                 "type": "closeMatch",
                 "identifier": "http://www.geonames.org/3021000"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Españoles en Flandes, Los",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XIII",
-                "Publication date": "1620",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "187968",
-        "uuid": "https://www.geonames.org/187968",
-        "type": "Feature",
-        "properties": {
-            "title": "Malindi",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                40.11692,
-                -3.21799
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/187968"
             }
         ],
         "relations": [
@@ -139704,7 +139248,7 @@
             "title": "San Francisco",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -139717,7 +139261,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -139747,6 +139291,19 @@
                 "Publication date": "1609",
                 "Date": "1585-1588",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+                  {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Saber por no saber y vida de san Julián de Alcalá de Henares, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
@@ -142004,7 +141561,7 @@
         "uuid": "https://www.geonames.org/3845265",
         "type": "Feature",
         "properties": {
-            "title": "Magallanes",
+            "title": "Estrecho de Magallanes",
             "occurrences": [
                 {
                     "value": 1
@@ -142367,62 +141924,6 @@
         ]
     },
     {
-        "@id": "457850",
-        "uuid": "https://www.geonames.org/457850",
-        "type": "Feature",
-        "properties": {
-            "title": "Livonia",
-            "occurrences": [
-                {
-                    "value": 3
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                25.967155,
-                57.862234
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "3 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/457850"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Gran duque de Moscovia y emperador perseguido, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte VII",
-                "Publication date": "1617",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "3"
-            }
-        ]
-    },
-    {
         "@id": "7522155",
         "uuid": "https://www.geonames.org/7522155",
         "type": "Feature",
@@ -142491,7 +141992,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -142789,62 +142290,6 @@
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "299817",
-        "uuid": "https://www.geonames.org/299817",
-        "type": "Feature",
-        "properties": {
-            "title": "Tarsus",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                34.89277,
-                36.91766
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/299817"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Grandezas de Alejandro, Las",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XVI",
-                "Publication date": "1621",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -143918,69 +143363,13 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
                 "Book title": "Parte X",
                 "Publication date": "1618",
                 "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2516747",
-        "uuid": "https://www.geonames.org/2516747",
-        "type": "Feature",
-        "properties": {
-            "title": "El Hierro",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -18.0,
-                27.75
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2516747"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Guanches de Tenerife y conquista de Canaria, Los",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte X",
-                "Publication date": "1618",
-                "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -144025,62 +143414,6 @@
             {
                 "type": "closeMatch",
                 "identifier": "http://www.geonames.org/163808"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Guanches de Tenerife y conquista de Canaria, Los",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte X",
-                "Publication date": "1618",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "6356935",
-        "uuid": "https://www.geonames.org/6356935",
-        "type": "Feature",
-        "properties": {
-            "title": "Jerez de la Frontera",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -6.1166666666667,
-                36.7
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6356935"
             }
         ],
         "relations": [
@@ -144280,7 +143613,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -145410,7 +144743,7 @@
             "title": "Tarso",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -145423,7 +144756,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -145443,6 +144776,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Grandezas de Alejandro, Las",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XVI",
+                "Publication date": "1621",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Hermosa Ester, La",
@@ -148216,7 +147562,7 @@
             "type": "Point",
             "coordinates": [
                 35.0,
-                -19.0
+                -21.0
             ]
         },
         "descriptions": [
@@ -148415,7 +147761,7 @@
             "title": "Libonia",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -148428,7 +147774,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -148448,6 +147794,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Gran duque de Moscovia y emperador perseguido, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "3"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Lo fingido verdadero",
@@ -149916,62 +149275,6 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "6542283",
-        "uuid": "https://www.geonames.org/6542283",
-        "type": "Feature",
-        "properties": {
-            "title": "Milano",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                9.19,
-                45.466944444444
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Urbano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6542283"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Malcasada, La",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XV",
-                "Publication date": "1621",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
             }
         ]
     },
@@ -151779,8 +151082,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.644248,
-                40.410811
+                -4.44161111,
+                40.36069444 
             ]
         },
         "descriptions": [
@@ -152969,8 +152272,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -6.076222,
-                12.391444
+                12.391444,
+                -6.076222
             ]
         },
         "descriptions": [
@@ -153598,20 +152901,20 @@
             "title": "Catay",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 9
                 }
             ]
         },
         "geometry": {
             "type": "Point",
             "coordinates": [
-                103.5,
-                35.85
+                115,
+                40
             ]
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "9 ocurrencia(s)"
             }
         ],
         "names": [
@@ -153631,6 +152934,19 @@
             }
         ],
         "relations": [
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Angélica en el Catay",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte VIII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "5"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "No son todos ruiseñores",
@@ -153646,7 +152962,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155607,7 +154923,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155663,7 +154979,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155719,7 +155035,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155775,7 +155091,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155844,7 +155160,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155865,7 +155181,7 @@
             "title": "Hierro",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -155878,7 +155194,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -155900,7 +155216,20 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Guanches de Tenerife y conquista de Canaria, Los",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte X",
+                "Publication date": "1618",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -155956,7 +155285,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -156012,7 +155341,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -156068,7 +155397,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -156124,7 +155453,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -156180,7 +155509,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -156236,7 +155565,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "La octava maravilla",
+                "title": "Octava maravilla, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
                 "Microgenre": "",
@@ -158366,62 +157695,6 @@
         ]
     },
     {
-        "@id": "2513428",
-        "uuid": "https://www.geonames.org/2513428",
-        "type": "Feature",
-        "properties": {
-            "title": "Mulacén",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -3.3113888888889,
-                37.053333333333
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Caballeresco",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2513428"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Pobrezas de Reinaldo, Las",
-                "genre": "Drama",
-                "subgenre": "Caballeresco",
-                "Microgenre": "",
-                "Book title": "Parte VII",
-                "Publication date": "1617",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "565361",
         "uuid": "https://www.geonames.org/565361",
         "type": "Feature",
@@ -158959,7 +158232,7 @@
         ]
     },
     {
-        "@id": "2993456",
+        "@id": "29934567",
         "uuid": "https://www.geonames.org/2993456",
         "type": "Feature",
         "properties": {
@@ -158973,8 +158246,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.0156,
-                39.8604
+                -4.0158,
+                39.8608
             ]
         },
         "descriptions": [
@@ -160050,7 +159323,7 @@
             "title": "Sofala",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -160063,7 +159336,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -160094,12 +159367,12 @@
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "2"
             }
         ]
     },
     {
-        "@id": "284315",
+        "@id": "2843157",
         "uuid": "https://www.geonames.org/284315",
         "type": "Feature",
         "properties": {
@@ -160113,8 +159386,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                35.206111111111,
-                31.704444444444
+                -9.2,
+                38.70
             ]
         },
         "descriptions": [
@@ -160267,62 +159540,6 @@
         ]
     },
     {
-        "@id": "1026804",
-        "uuid": "https://www.geonames.org/1026804",
-        "type": "Feature",
-        "properties": {
-            "title": "Zofala",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                34.8,
-                -19.2
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/1026804"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe perfecto, Segunda parte, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XVIII",
-                "Publication date": "1623",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "155021",
         "uuid": "https://www.geonames.org/155021",
         "type": "Feature",
@@ -160330,7 +159547,7 @@
             "title": "Melinde",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -160343,7 +159560,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -160363,6 +159580,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Españoles en Flandes, Los",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XIII",
+                "Publication date": "1620",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Príncipe perfecto, Segunda parte, El",
@@ -162322,62 +161552,6 @@
         ]
     },
     {
-        "@id": "F33940583",
-        "uuid": "https://www.geonames.org/F33940583",
-        "type": "Feature",
-        "properties": {
-            "title": "Convento de San Francisco",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -3.71444,
-                40.41056
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial religioso",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/F33940583"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Saber por no saber y vida de san Julián de Alcalá de Henares, El",
-                "genre": "Drama",
-                "subgenre": "Historial religioso",
-                "Microgenre": "Hagiográfico y leyenda",
-                "Book title": "Parte XXIII",
-                "Publication date": "1638",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "108505836",
         "uuid": "https://www.geonames.org/108505836",
         "type": "Feature",
@@ -162714,7 +161888,7 @@
         ]
     },
     {
-        "@id": "630671",
+        "@id": "6306715",
         "uuid": "https://www.geonames.org/630671",
         "type": "Feature",
         "properties": {
@@ -163455,62 +162629,6 @@
         ]
     },
     {
-        "@id": "119490410",
-        "uuid": "https://www.geonames.org/119490410",
-        "type": "Feature",
-        "properties": {
-            "title": "Calle Francos",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -5.99276258499,
-                37.388071097092
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Urbano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/119490410"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Servir a señor discreto",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XI",
-                "Publication date": "1618",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "F3465325",
         "uuid": "https://www.geonames.org/F3465325",
         "type": "Feature",
@@ -164216,7 +163334,7 @@
             "title": "Calle de Francos",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -164229,7 +163347,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -164249,6 +163367,19 @@
             }
         ],
         "relations": [
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Servir a señor discreto",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Testigo contra sí, El",
@@ -166539,62 +165670,6 @@
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "2464915",
-        "uuid": "https://www.geonames.org/2464915",
-        "type": "Feature",
-        "properties": {
-            "title": "Sus",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                10.63699,
-                35.82539
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Urbano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2464915"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Viuda, casada y doncella, La",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte VII",
-                "Publication date": "1617",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
