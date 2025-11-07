@@ -2,7 +2,9 @@
 
 # Peripleo | Mapping Lope: A Cartographic Exploration of the Comedia Nueva 🌍
 
-_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025–2027) is a Swiss National Science Fund (SNSF) funded project that uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. Combining Philology, Literary Geography, and machine learning, it aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through automated extraction of place names, interactive maps, graphs, and statistics, the project offers new insights into the role of space in Spanish Golden Age drama.
+_Mapping Lope: A Cartographic Exploration of the Comedia Nueva_ (2025-2027) is a post-doctoral research project supported by a [Postdoc.Mobility grant](https://data.snf.ch/grants/grant/235122) from the Swiss National Science Foundation (SNSF). It is being carried out by Miguel Betti at the PROLOPE Group (Universitat Autònoma de Barcelona) under the supervision of Prof. Sònia Boadas (Thal-IA - UAB).
+
+Combining Philology, Literary Geography, and machine learning, the project uses Digital Humanities tools to analyze the use of place names (toponyms) in Lope de Vega’s plays. It aims to reassess the link between theater genres and geography, and to explore how toponyms reflect the political and cultural context of Lope’s time. Through the automated extraction of place names, as well as the creation of interactive maps, graphs, and statistical analyses, the project offers new insights into the role of space in Spanish Golden Age drama.
 
 This [map](https://mappinglope.github.io/peripleo-lope) shows the names of the places detected with machine learning in 364 plays. With this visualisation, users can search places and filter them by genre, subgenre, title, date, etc.
 
