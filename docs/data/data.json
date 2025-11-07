@@ -6825,8 +6825,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -0.9,
-                41.65
+                -0.66667,
+                41.5
             ]
         },
         "descriptions": [
@@ -17098,8 +17098,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.715,
-                40.4175
+                -3,
+                39.5
             ]
         },
         "descriptions": [
@@ -41970,8 +41970,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.68305556,
-                40.40027778
+                -3.6836393425609693,
+                40.40604081584621
             ]
         },
         "descriptions": [
@@ -42575,18 +42575,24 @@
         ]
     },
     {
-        "@id": "No identificado",
+        "@id": "563737",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
-            "title": "Soto de Madrid",
+            "title": "Soto",
             "occurrences": [
                 {
                     "value": 33
                 }
             ]
+            },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.708759,
+                40.397715
+            ]
         },
-        "geometry": null,
         "descriptions": [
             {
                 "value": "33 ocurrencia(s)"
@@ -109551,7 +109557,7 @@
         ]
     },
     {
-        "@id": "No identificado",
+        "@id": "6103179",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
@@ -109562,7 +109568,13 @@
                 }
             ]
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.70161111,
+                40.41988889
+            ]
+        },
         "descriptions": [
             {
                 "value": "4 ocurrencia(s)"
@@ -141270,18 +141282,24 @@
         ]
     },
     {
-        "@id": "No identificado",
+        "@id": "5736305",
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
-            "title": "Calle de la Pasión",
+            "title": "La Pasión",
             "occurrences": [
                 {
                     "value": 1
                 }
             ]
+       },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.69528,
+                40.40917
+            ]
         },
-        "geometry": null,
         "descriptions": [
             {
                 "value": "1 ocurrencia(s)"
