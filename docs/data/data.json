@@ -41970,8 +41970,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.6836393425609693,
-                40.40604081584621
+                -3.6837,
+                40.4055
             ]
         },
         "descriptions": [
@@ -56580,62 +56580,6 @@
         ]
     },
     {
-        "@id": "9023478",
-        "uuid": "https://www.geonames.org/9023478",
-        "type": "Feature",
-        "properties": {
-            "title": "Puerta de Guadalajara",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -3.70869167,
-                40.41630278
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Villano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/9023478"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Al pasar del arroyo",
-                "genre": "Comedia",
-                "subgenre": "Villano",
-                "Microgenre": "",
-                "Book title": "Parte XII",
-                "Publication date": "1619",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "F6897485",
         "uuid": "https://www.geonames.org/F6897485",
         "type": "Feature",
@@ -57731,7 +57675,7 @@
                 "Publication date": "1619",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -63246,7 +63190,7 @@
                 "Publication date": "1637",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -69993,7 +69937,7 @@
                 "Publication date": "1618",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -74679,7 +74623,7 @@
                 "Publication date": "1647",
                 "Date": "1620-1634",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -74809,7 +74753,7 @@
                 "Publication date": "1621",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -83843,7 +83787,7 @@
                 "Publication date": "1621",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "10"
             }
         ]
@@ -85455,7 +85399,7 @@
                 "Publication date": "1641",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -85468,7 +85412,7 @@
                 "Publication date": "1621",
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -86527,7 +86471,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "3"
             },
             {
@@ -90781,7 +90725,7 @@
                 "Publication date": "1624",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -90794,7 +90738,7 @@
                 "Publication date": "1623",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "3"
             },
             {
@@ -90807,7 +90751,7 @@
                 "Publication date": "1604",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "3"
             },
             {
@@ -90820,7 +90764,7 @@
                 "Publication date": "1612",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "2"
             },
             {
@@ -90833,7 +90777,7 @@
                 "Publication date": "1638",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -90846,7 +90790,7 @@
                 "Publication date": "1635",
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -90859,7 +90803,7 @@
                 "Publication date": "1635",
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "4"
             },
             {
@@ -90872,7 +90816,7 @@
                 "Publication date": "1617",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "3"
             },
             {
@@ -90885,7 +90829,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1600-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -94259,7 +94203,7 @@
                 "Publication date": "1621",
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -97232,7 +97176,7 @@
             "title": "Concepción",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 2
                 }
             ]
         },
@@ -97245,7 +97189,7 @@
         },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -97276,21 +97220,51 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "2"
+            }
+        ]
+    },
+    {
+        "@id": "5166196",
+        "uuid": "https://www.geonames.org/3893894",
+        "type": "Feature",
+        "properties": {
+            "title": "Convento de la Concepción",
+            "occurrences": [
+                {
+                    "value": 3
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.0270194444444,
+                39.859847222222
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "3 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Historial profano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
             },
             {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Arauco domado, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XX",
-                "Publication date": "1625",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/3893894"
+            }
+        ],
+        "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Noche toledana, La",
@@ -97301,7 +97275,7 @@
                 "Publication date": "1612",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "2"
             },
             {
@@ -97314,7 +97288,7 @@
                 "Publication date": "1638",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -102533,7 +102507,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
         ]
@@ -103850,7 +103824,7 @@
                 "Publication date": "1635",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -106462,7 +106436,7 @@
                 "Publication date": "1617",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -108268,7 +108242,7 @@
                 "Publication date": "1618",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -108281,7 +108255,7 @@
                 "Publication date": "1618",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -110167,8 +110141,9 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.688836,
-                40.435225
+                -3.690512,
+                40.425346
+
             ]
         },
         "descriptions": [
@@ -113016,7 +112991,7 @@
                 "Publication date": "1617",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -113029,7 +113004,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -120883,8 +120858,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.02598,
-                39.83105
+                -4.013577598121,
+                39.839728727902
             ]
         },
         "descriptions": [
@@ -121312,7 +121287,7 @@
                 "Publication date": "1620",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -123655,23 +123630,23 @@
         "uuid": "https://www.geonames.org/5481992",
         "type": "Feature",
         "properties": {
-            "title": "Santo Domingo",
+            "title": "Convento de Santo Domingo",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 2
                 }
             ]
         },
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.682222,
-                40.434722
+                -3.708512174797257,
+                40.42065262610037
             ]
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -123706,19 +123681,6 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Conquista de México, La",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXX",
-                "Publication date": "1668",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Melindres de Belisa, Los",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -123728,6 +123690,62 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "3492908",
+        "uuid": "https://www.geonames.org/3492908",
+        "type": "Feature",
+        "properties": {
+            "title": "Santo Domingo",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -69.929611,
+                18.483402
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/3492908"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Conquista de México, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXX",
+                "Publication date": "1668",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -124413,7 +124431,7 @@
                 "Publication date": "1647",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -124426,7 +124444,7 @@
                 "Publication date": "1617",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -124439,7 +124457,7 @@
                 "Publication date": "1618",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -124452,7 +124470,7 @@
                 "Publication date": "1635",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -125489,7 +125507,7 @@
                 "Publication date": "1615",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -125679,7 +125697,7 @@
                 "Publication date": "1620",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -125692,7 +125710,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -125705,7 +125723,7 @@
                 "Publication date": "1630",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "3"
             },
             {
@@ -125718,7 +125736,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1588-1590",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -125731,7 +125749,7 @@
                 "Publication date": "1635",
                 "Date": "1630-1635",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -127741,7 +127759,7 @@
                 "Publication date": "1620",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -129485,7 +129503,7 @@
             "title": "Puerta de Guadalajara y Platería",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -129498,7 +129516,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -129518,6 +129536,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Al pasar del arroyo",
+                "genre": "Comedia",
+                "subgenre": "Villano",
+                "Microgenre": "",
+                "Book title": "Parte XII",
+                "Publication date": "1619",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "De cosario a cosario",
@@ -129955,7 +129986,7 @@
                 "Publication date": "1617",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -129968,7 +129999,7 @@
                 "Publication date": "1653",
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -130499,7 +130530,7 @@
             "title": "El Pardo",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -130512,7 +130543,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -130543,6 +130574,19 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Portuguesa y dicha del forastero, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Colección de comedias escogidas. Parte III",
+                "Publication date": "1653",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -131241,7 +131285,7 @@
                 "Publication date": "1663",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -131254,7 +131298,7 @@
                 "Publication date": "1637",
                 "Date": "1620-1634",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -131267,7 +131311,7 @@
                 "Publication date": "1619",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -131280,7 +131324,7 @@
                 "Publication date": "1619",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -131293,7 +131337,7 @@
                 "Publication date": "1618",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -135676,7 +135720,7 @@
                 "Publication date": "1617",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -138713,7 +138757,7 @@
                 "Publication date": "1614",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Accidente geográfico",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -144640,7 +144684,7 @@
                 "Publication date": "1625",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -145365,7 +145409,7 @@
                 "Publication date": "1641",
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "4"
             },
             {
@@ -148430,7 +148474,7 @@
                 "Publication date": "1623",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "3"
             }
         ]
@@ -158144,56 +158188,6 @@
         ]
     },
     {
-        "@id": "3123381",
-        "uuid": "https://www.geonames.org/3123381",
-        "type": "Feature",
-        "properties": {
-            "title": "Pardo",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": null,
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Urbano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/3123381"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Portuguesa y dicha del forastero, La",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Colección de comedias escogidas. Parte III",
-                "Publication date": "1653",
-                "Date": "1620-1634",
-                "Period": "Senectud (c. 1630-1635)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "F2304535",
         "uuid": "https://www.geonames.org/F2304535",
         "type": "Feature",
@@ -160922,7 +160916,7 @@
                 "Publication date": "1625",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Lugar fantástico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -162661,8 +162655,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -5.9930955622969,
-                37.385742159631
+                -5.993666,
+                37.386634
             ]
         },
         "descriptions": [
@@ -162878,7 +162872,7 @@
                 "Publication date": "1615",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -164050,7 +164044,7 @@
                 "Publication date": "1620",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
