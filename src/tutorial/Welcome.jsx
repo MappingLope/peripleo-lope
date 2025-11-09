@@ -56,7 +56,7 @@ const Welcome = props => {
         <div className="p6o-welcome-logos" style={{ textAlign: 'center' }}>
         <img 
         src="logos/PROLOPE.png" 
-        width="120" 
+        width="200" 
         style={{ margin: '0 20px' }} 
         alt="PROLOPE logo"/>
         <img 
