@@ -53,6 +53,11 @@ const Welcome = props => {
             Sí, haz la visita.
           </button>
         </div>
+         <div className="p6o-welcome-logos">
+          <img src="logos/PROLOPE.png" width="120px" style={{marginRight: 10 + 'px'}}/>
+          <img src="logos/SNSF.png" width="120px" style={{marginRight: 10 + 'px'}}/>
+        </div>
+
       </div>
     </div>,
 
