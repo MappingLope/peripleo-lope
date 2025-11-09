@@ -53,9 +53,17 @@ const Welcome = props => {
             Sí, haz la visita.
           </button>
         </div>
-         <div className="p6o-welcome-logos">
-          <img src="logos/PROLOPE.png" width="120px" style={{marginRight: 10 + 'px'}}/>
-          <img src="logos/SNSF.png" width="200px"/>
+        <div className="p6o-welcome-logos" style={{ textAlign: 'center' }}>
+        <img 
+        src="logos/PROLOPE.png" 
+        width="120" 
+        style={{ margin: '0 20px' }} 
+        alt="PROLOPE logo"/>
+        <img 
+        src="logos/SNSF.png" 
+        width="200" 
+        style={{ margin: '0 20px' }} 
+        alt="SNSF logo"/>
         </div>
 
       </div>
