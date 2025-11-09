@@ -55,7 +55,7 @@ const Welcome = props => {
         </div>
          <div className="p6o-welcome-logos">
           <img src="logos/PROLOPE.png" width="120px" style={{marginRight: 10 + 'px'}}/>
-          <img src="logos/SNSF.png" width="120px" style={{marginRight: 10 + 'px'}}/>
+          <img src="logos/SNSF.png" width="200px"/>
         </div>
 
       </div>
