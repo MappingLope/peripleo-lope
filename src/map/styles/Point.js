@@ -5,8 +5,13 @@ export const pointStyle = args => ({
       'interpolate', 
       ['linear'],
       ['number', ['get','colocated_records'], ['get', 'colocated_relations'] ],
-  0, 5,      
-  100, 30 
+      0, 4,
+      10, 6,
+      20, 8,
+      50, 12,
+      100, 16,
+      200, 22,
+      300, 26
     ],
     'circle-color': args?.fill || '#fff',
     'circle-stroke-color': args?.stroke || '#000',
@@ -21,8 +26,13 @@ export const pointCategoryStyle = args => ({
       'interpolate', 
       ['linear'],
       ['number', ['get','colocated_records'], ['get', 'colocated_relations'] ],
-  0, 5,      
-  100, 30 
+      0, 4,
+      10, 6,
+      20, 8,
+      50, 12,
+      100, 16,
+      200, 22,
+      300, 26
     ],
     'circle-color': [ 'get', 'color' ],
     'circle-stroke-color': args?.stroke || '#000',
