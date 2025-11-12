@@ -104679,10 +104679,10 @@
         "uuid": "https://www.geonames.org/3118048",
         "type": "Feature",
         "properties": {
-            "title": "Bureba",
+            "title": "Montes de la Bureba",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -104695,7 +104695,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -104726,6 +104726,19 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
         ]
@@ -155330,8 +155343,9 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.97246,
+                -5.0128,
                 42.47391
+
             ]
         },
         "descriptions": [
@@ -160568,62 +160582,6 @@
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
-        "@id": "F3748503",
-        "uuid": "https://www.geonames.org/F3748503",
-        "type": "Feature",
-        "properties": {
-            "title": "La Bureba",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -3.359167,
-                42.6025
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Urbano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/F3748503"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Ramilletes de Madrid, Los",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XI",
-                "Publication date": "1618",
-                "Date": "1610-1624",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
         ]
