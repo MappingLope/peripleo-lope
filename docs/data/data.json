@@ -42006,7 +42006,7 @@
                 "Publication date": "1618",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "5"
             },
             {
@@ -42019,7 +42019,7 @@
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "5"
             },
             {
@@ -42032,7 +42032,7 @@
                 "Publication date": "1617",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -42045,7 +42045,7 @@
                 "Publication date": "1624",
                 "Date": "1620-1634",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -42058,7 +42058,7 @@
                 "Publication date": "1633",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -42071,7 +42071,7 @@
                 "Publication date": "1620",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "2"
             },
             {
@@ -42084,7 +42084,7 @@
                 "Publication date": "1617",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "4"
             },
             {
@@ -42097,7 +42097,7 @@
                 "Publication date": "1620",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -42110,7 +42110,7 @@
                 "Publication date": "1617",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
         ]
@@ -42769,7 +42769,7 @@
         "uuid": "https://www.geonames.org/5785991",
         "type": "Feature",
         "properties": {
-            "title": "Convento de la Trinidad calzada",
+            "title": "Convento de la Santísima Trinidad",
             "occurrences": [
                 {
                     "value": 2
@@ -42931,7 +42931,7 @@
         "uuid": "https://www.geonames.org/78601908",
         "type": "Feature",
         "properties": {
-            "title": "Iglesia de San Jerónimo el Real",
+            "title": "Convento de San Jerónimo el Real",
             "occurrences": [
                 {
                     "value": 4
@@ -90458,8 +90458,9 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.68168889,
-                40.413675
+                -3.679798,
+                40.420386
+
             ]
         },
         "descriptions": [
@@ -109636,7 +109637,7 @@
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
-            "title": "Calle de San Luis",
+            "title": "San Luis",
             "occurrences": [
                 {
                     "value": 4
@@ -139162,8 +139163,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.701728,
-                40.410983
+                -3.704180,
+                40.419765
             ]
         },
         "descriptions": [
@@ -139485,7 +139486,7 @@
         "uuid": "https://www.geonames.org/F8475906",
         "type": "Feature",
         "properties": {
-            "title": "San Francisco",
+            "title": "Convento de San Francisco",
             "occurrences": [
                 {
                     "value": 2
@@ -141520,7 +141521,7 @@
         "uuid": "https://www.geonames.org/No identificado",
         "type": "Feature",
         "properties": {
-            "title": "La Pasión",
+            "title": "Convento de la Pasión",
             "occurrences": [
                 {
                     "value": 1
@@ -141530,8 +141531,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.69528,
-                40.40917
+                 -3.708228,
+                40.411161
             ]
         },
         "descriptions": [
@@ -143439,7 +143440,7 @@
         "uuid": "https://www.geonames.org/104530191",
         "type": "Feature",
         "properties": {
-            "title": "La Merced",
+            "title": "Convento de Nuestra Señora de la Merced",
             "occurrences": [
                 {
                     "value": 1
@@ -143449,8 +143450,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.71874444,
-                41.64926667
+                -3.7050833333333,
+                40.412555555556
             ]
         },
         "descriptions": [
