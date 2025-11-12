@@ -65789,8 +65789,15 @@
                     "value": 5
                 }
             ]
+
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 -4.02694444,
+                39.85833333
+            ]
+        },
         "descriptions": [
             {
                 "value": "5 ocurrencia(s)"
@@ -74907,8 +74914,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -6050.0,
-                37383.0
+                -6.0500,
+                37.3830
             ]
         },
         "descriptions": [
@@ -74969,14 +74976,21 @@
             "title": "Iglesia de Santa María Magdalena",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 3
                 }
             ]
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5.9984083050087,
+                37.390548099318
+
+            ]
+        },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -75011,19 +75025,6 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Grao de Valencia, El",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Manuscrito",
-                "Publication date": "Sin fecha",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Premio del bien hablar, El",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -75037,25 +75038,125 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Servir a señor discreto",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XI",
-                "Publication date": "1618",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Victoria de la honra, La",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
                 "Book title": "Parte XXI",
                 "Publication date": "1635",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "F6746035",
+        "uuid": "https://www.geonames.org/F6746035",
+        "type": "Feature",
+        "properties": {
+            "title": "Las Madalenas",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.33517791537623,
+                39.4613243897132
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/7419759"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Grao de Valencia, El",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            }
+        ]
+    },
+        {
+        "@id": "F637494",
+        "uuid": "https://www.geonames.org/7419759",
+        "type": "Feature",
+        "properties": {
+            "title": "La Madalena",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.700963,
+                40.413245
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/7419759"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Servir a señor discreto",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
@@ -97476,8 +97577,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -73267.0,
-                -53167.0
+                -73.179583333333,
+                -37.156777777778
             ]
         },
         "descriptions": [
@@ -121302,9 +121403,15 @@
                 {
                     "value": 1
                 }
+            ]  
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -5.7388888888889,
+                40.114166666667
             ]
         },
-        "geometry": null,
         "descriptions": [
             {
                 "value": "1 ocurrencia(s)"
@@ -125087,7 +125194,7 @@
             "type": "Point",
             "coordinates": [
                 -3.5894,
-                37175.0
+                37.1750
             ]
         },
         "descriptions": [
@@ -125625,7 +125732,7 @@
         "uuid": "https://www.geonames.org/6359354",
         "type": "Feature",
         "properties": {
-            "title": "San Martín",
+            "title": "San Martín de Valdeiglesias",
             "occurrences": [
                 {
                     "value": 13
@@ -125738,6 +125845,75 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "No son todos ruiseñores",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XXII",
+                "Publication date": "1635",
+                "Date": "1630-1635",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },
+     {
+        "@id": "5117119",
+        "uuid": "https://www.geonames.org/5117119",
+        "type": "Feature",
+        "properties": {
+            "title": "San Martín",
+            "occurrences": [
+                {
+                    "value": 4
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.707139,
+                40.417593
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "4 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Historial profano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/6359354"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Marqués de las Navas, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Colección de diferentes autores. Parte 22",
+                "Publication date": "1630",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -138924,8 +139100,15 @@
                     "value": 1
                 }
             ]
+
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.70566389,
+                40.41499444
+            ]
+        },
         "descriptions": [
             {
                 "value": "1 ocurrencia(s)"
@@ -138971,14 +139154,21 @@
             "title": "calle de la Oliva",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 1
                 }
             ]
+
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.701728,
+                40.410983
+            ]
+        },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "1 ocurrencia(s)"
             }
         ],
         "names": [
@@ -139009,19 +139199,6 @@
                 "Date": "1585-1588",
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Palacios de Galiana, Los",
-                "genre": "Drama",
-                "subgenre": "Caballeresco",
-                "Microgenre": "",
-                "Book title": "Parte XXIII",
-                "Publication date": "1638",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -139120,7 +139297,14 @@
                 }
             ]
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.704575,
+                40.411647
+
+            ]
+        },
         "descriptions": [
             {
                 "value": "1 ocurrencia(s)"
@@ -139153,7 +139337,7 @@
                 "Publication date": "1609",
                 "Date": "1585-1588",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
         ]
@@ -139232,7 +139416,7 @@
         "uuid": "https://www.geonames.org/16552537",
         "type": "Feature",
         "properties": {
-            "title": "Santa María",
+            "title": "Santa María de la Almudena",
             "occurrences": [
                 {
                     "value": 4
@@ -139242,8 +139426,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -3.7016555555556,
-                40.413313888889
+                -3.714529955904902,
+                40.4157072426042
             ]
         },
         "descriptions": [
@@ -140910,9 +141094,15 @@
                 {
                     "value": 2
                 }
+            ] 
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.71191667,
+                40.41580556
             ]
         },
-        "geometry": null,
         "descriptions": [
             {
                 "value": "2 ocurrencia(s)"
@@ -148545,9 +148735,16 @@
                 {
                     "value": 1
                 }
+            ] 
+
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.383958,
+                39.47576
             ]
         },
-        "geometry": null,
         "descriptions": [
             {
                 "value": "1 ocurrencia(s)"
@@ -148600,8 +148797,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                35527.0,
-                32.76
+                35.3,
+                33
             ]
         },
         "descriptions": [
@@ -152693,7 +152890,14 @@
                 }
             ]
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.7103861111111,
+                40.415738888889
+
+            ]
+        },
         "descriptions": [
             {
                 "value": "2 ocurrencia(s)"
@@ -155194,8 +155398,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -17225.0,
-                28115.0
+                -17.225,
+                28.115
             ]
         },
         "descriptions": [
@@ -158591,7 +158795,13 @@
                 }
             ]
         },
-        "geometry": null,
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.5960555555556,
+                37.176836111111
+            ]
+        },
         "descriptions": [
             {
                 "value": "1 ocurrencia(s)"
@@ -158624,7 +158834,7 @@
                 "Publication date": "1617",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
         ]
