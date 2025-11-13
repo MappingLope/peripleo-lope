@@ -79018,7 +79018,7 @@
             "title": "Guadalcazar",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -79031,7 +79031,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -79061,6 +79061,19 @@
                 "Publication date": "1635",
                 "Date": "1620-1634",
                 "Period": "Senectud (c. 1630-1635)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+                     {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Famosas asturianas, Las",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
@@ -94242,11 +94255,11 @@
         ]
     },
     {
-        "@id": "12232629",
-        "uuid": "https://www.geonames.org/12232629",
+        "@id": "6356027",
+        "uuid": "https://www.geonames.org/6356027",
         "type": "Feature",
         "properties": {
-            "title": "Zarza",
+            "title": "La Zarza",
             "occurrences": [
                 {
                     "value": 3
@@ -94256,8 +94269,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -7.97294,
-                42.43257
+                -6.27056,
+                38.80084
             ]
         },
         "descriptions": [
@@ -104758,8 +104771,9 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.0059,
-                40.9914
+                -3.05994,
+                38.58417
+
             ]
         },
         "descriptions": [
@@ -119123,10 +119137,10 @@
         "uuid": "https://www.geonames.org/2972315",
         "type": "Feature",
         "properties": {
-            "title": "Tolosa",
+            "title": "Tolosa (Francia)",
             "occurrences": [
                 {
-                    "value": 8
+                    "value": 6
                 }
             ]
         },
@@ -119135,6 +119149,101 @@
             "coordinates": [
                 1.44333333333333,
                 43.6044444444445
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "8 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Historial profano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/2972315"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Francesilla, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XIII",
+                "Publication date": "1620",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Gala del nadar es saber guardar la ropa",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas escritas por los mejores ingenios de España. Parte 38",
+                "Publication date": "1672",
+                "Date": "1620-1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palacios de Galiana, Los",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Vida de san Pedro Nolasco, La",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XXII",
+                "Publication date": "1635",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "2510400",
+        "uuid": "https://www.geonames.org/2510400",
+        "type": "Feature",
+        "properties": {
+            "title": "Tolosa",
+            "occurrences": [
+                {
+                    "value": 2
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.36667,
+                39.2
             ]
         },
         "descriptions": [
@@ -119174,32 +119283,6 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Francesilla, La",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XIII",
-                "Publication date": "1620",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "3"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Gala del nadar es saber guardar la ropa",
-                "genre": "Comedia",
-                "subgenre": "Palatino",
-                "Microgenre": "",
-                "Book title": "Comedias nuevas escritas por los mejores ingenios de España. Parte 38",
-                "Publication date": "1672",
-                "Date": "1620-1628",
-                "Period": "Senectud (c. 1630-1635)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Marqués de las Navas, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -119208,32 +119291,6 @@
                 "Publication date": "1630",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Palacios de Galiana, Los",
-                "genre": "Drama",
-                "subgenre": "Caballeresco",
-                "Microgenre": "",
-                "Book title": "Parte XXIII",
-                "Publication date": "1638",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Vida de san Pedro Nolasco, La",
-                "genre": "Drama",
-                "subgenre": "Historial religioso",
-                "Microgenre": "Hagiográfico y leyenda",
-                "Book title": "Parte XXII",
-                "Publication date": "1635",
-                "Date": "1620-1634",
-                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             }
@@ -138535,62 +138592,6 @@
         ]
     },
     {
-        "@id": "6357228",
-        "uuid": "https://www.geonames.org/6357228",
-        "type": "Feature",
-        "properties": {
-            "title": "Guadalcázar",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -4.9441631,
-                37.7578517
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/6357228"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Famosas asturianas, Las",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte XVIII",
-                "Publication date": "1623",
-                "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
-                "occurrences": "1"
-            }
-        ]
-    },
-    {
         "@id": "F7563950",
         "uuid": "https://www.geonames.org/F7563950",
         "type": "Feature",
@@ -154816,11 +154817,11 @@
         ]
     },
     {
-        "@id": "6322255",
+        "@id": "3637721",
         "uuid": "https://www.geonames.org/6322255",
         "type": "Feature",
         "properties": {
-            "title": "Guairá",
+            "title": "La Guaira",
             "occurrences": [
                 {
                     "value": 1
@@ -154830,8 +154831,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -48.33773,
-                -20.30126
+                -66.93293,
+                10.60156
             ]
         },
         "descriptions": [
