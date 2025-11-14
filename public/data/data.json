@@ -11,7 +11,7 @@
             "title": "España",
             "occurrences": [
                 {
-                    "value": 2769
+                    "value": 2811
                 }
             ]
         },
@@ -24,7 +24,7 @@
         },
         "descriptions": [
             {
-                "value": "2769 ocurrencia(s)"
+                "value": "2811 ocurrencia(s)"
             }
         ],
         "names": [
@@ -2776,6 +2776,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "42"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Palacios de Galiana, Los",
                 "genre": "Drama",
                 "subgenre": "Caballeresco",
@@ -4032,7 +4045,7 @@
             "title": "Italia",
             "occurrences": [
                 {
-                    "value": 712
+                    "value": 715
                 }
             ]
         },
@@ -4045,7 +4058,7 @@
         },
         "descriptions": [
             {
-                "value": "712 ocurrencia(s)"
+                "value": "715 ocurrencia(s)"
             }
         ],
         "names": [
@@ -5949,6 +5962,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -9872,7 +9898,7 @@
             "title": "Europa",
             "occurrences": [
                 {
-                    "value": 126
+                    "value": 128
                 }
             ]
         },
@@ -9885,7 +9911,7 @@
         },
         "descriptions": [
             {
-                "value": "126 ocurrencia(s)"
+                "value": "128 ocurrencia(s)"
             }
         ],
         "names": [
@@ -10712,6 +10738,19 @@
                 "occurrences": "2"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Palacios de Galiana, Los",
                 "genre": "Drama",
@@ -10722,6 +10761,19 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -11323,7 +11375,7 @@
             "title": "Francia",
             "occurrences": [
                 {
-                    "value": 1084
+                    "value": 1096
                 }
             ]
         },
@@ -11336,7 +11388,7 @@
         },
         "descriptions": [
             {
-                "value": "1084 ocurrencia(s)"
+                "value": "1096 ocurrencia(s)"
             }
         ],
         "names": [
@@ -13084,6 +13136,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -16017,7 +16082,7 @@
             "title": "Navarra",
             "occurrences": [
                 {
-                    "value": 297
+                    "value": 300
                 }
             ]
         },
@@ -16030,7 +16095,7 @@
         },
         "descriptions": [
             {
-                "value": "297 ocurrencia(s)"
+                "value": "300 ocurrencia(s)"
             }
         ],
         "names": [
@@ -16530,6 +16595,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -17091,7 +17169,7 @@
             "title": "Castilla",
             "occurrences": [
                 {
-                    "value": 1311
+                    "value": 1312
                 }
             ]
         },
@@ -17104,7 +17182,7 @@
         },
         "descriptions": [
             {
-                "value": "1311 ocurrencia(s)"
+                "value": "1312 ocurrencia(s)"
             }
         ],
         "names": [
@@ -18839,6 +18917,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -23082,7 +23173,7 @@
             "title": "Roma",
             "occurrences": [
                 {
-                    "value": 1055
+                    "value": 1059
                 }
             ]
         },
@@ -23095,7 +23186,7 @@
         },
         "descriptions": [
             {
-                "value": "1055 ocurrencia(s)"
+                "value": "1059 ocurrencia(s)"
             }
         ],
         "names": [
@@ -24196,16 +24287,16 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Esclavo de Roma, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte VIII",
-                "Publication date": "1617",
-                "Date": "1587-1604",
+                "title": "Esclava de su hijo, La",
+                "genre": "Comedia",
+                "subgenre": "Novelesco",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1616-1618",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "47"
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -24218,7 +24309,7 @@
                 "Date": "1587-1604",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "48"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -25275,6 +25366,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Pleitos de Inglaterra, Los",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -26050,7 +26154,7 @@
             "title": "Madrid",
             "occurrences": [
                 {
-                    "value": 892
+                    "value": 893
                 }
             ]
         },
@@ -26063,7 +26167,7 @@
         },
         "descriptions": [
             {
-                "value": "892 ocurrencia(s)"
+                "value": "893 ocurrencia(s)"
             }
         ],
         "names": [
@@ -27068,6 +27172,19 @@
                 "Publication date": "1609",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -34764,7 +34881,7 @@
             "title": "China",
             "occurrences": [
                 {
-                    "value": 62
+                    "value": 63
                 }
             ]
         },
@@ -34777,7 +34894,7 @@
         },
         "descriptions": [
             {
-                "value": "62 ocurrencia(s)"
+                "value": "63 ocurrencia(s)"
             }
         ],
         "names": [
@@ -35266,6 +35383,19 @@
                 "occurrences": "1"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Palacios de Galiana, Los",
                 "genre": "Drama",
@@ -35483,7 +35613,7 @@
             "title": "India",
             "occurrences": [
                 {
-                    "value": 58
+                    "value": 59
                 }
             ]
         },
@@ -35496,7 +35626,7 @@
         },
         "descriptions": [
             {
-                "value": "58 ocurrencia(s)"
+                "value": "59 ocurrencia(s)"
             }
         ],
         "names": [
@@ -35869,6 +35999,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Pobreza estimada, La",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -36007,7 +36150,7 @@
             "title": "Sevilla",
             "occurrences": [
                 {
-                    "value": 781
+                    "value": 782
                 }
             ]
         },
@@ -36020,7 +36163,7 @@
         },
         "descriptions": [
             {
-                "value": "781 ocurrencia(s)"
+                "value": "782 ocurrencia(s)"
             }
         ],
         "names": [
@@ -36986,6 +37129,19 @@
                 "Publication date": "1609",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -38446,7 +38602,7 @@
             "title": "Libia",
             "occurrences": [
                 {
-                    "value": 132
+                    "value": 134
                 }
             ]
         },
@@ -38459,7 +38615,7 @@
         },
         "descriptions": [
             {
-                "value": "132 ocurrencia(s)"
+                "value": "134 ocurrencia(s)"
             }
         ],
         "names": [
@@ -39195,6 +39351,19 @@
                 "occurrences": "1"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Palacios de Galiana, Los",
                 "genre": "Drama",
@@ -39206,6 +39375,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -39490,7 +39672,7 @@
             "title": "Nápoles",
             "occurrences": [
                 {
-                    "value": 477
+                    "value": 478
                 }
             ]
         },
@@ -39503,7 +39685,7 @@
         },
         "descriptions": [
             {
-                "value": "477 ocurrencia(s)"
+                "value": "478 ocurrencia(s)"
             }
         ],
         "names": [
@@ -40313,6 +40495,19 @@
                 "Publication date": "1609",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -43163,7 +43358,7 @@
             "title": "Grecia",
             "occurrences": [
                 {
-                    "value": 225
+                    "value": 230
                 }
             ]
         },
@@ -43176,7 +43371,7 @@
         },
         "descriptions": [
             {
-                "value": "225 ocurrencia(s)"
+                "value": "230 ocurrencia(s)"
             }
         ],
         "names": [
@@ -43796,6 +43991,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Esclava de su hijo, La",
+                "genre": "Comedia",
+                "subgenre": "Novelesco",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1616-1618",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Españoles en Flandes, Los",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -44378,6 +44586,32 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -44978,7 +45212,7 @@
             "title": "Indias orientales",
             "occurrences": [
                 {
-                    "value": 44
+                    "value": 45
                 }
             ]
         },
@@ -44991,7 +45225,7 @@
         },
         "descriptions": [
             {
-                "value": "44 ocurrencia(s)"
+                "value": "45 ocurrencia(s)"
             }
         ],
         "names": [
@@ -45346,6 +45580,19 @@
                 "Publication date": "1638",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -46077,7 +46324,7 @@
             "title": "Arcadia",
             "occurrences": [
                 {
-                    "value": 63
+                    "value": 64
                 }
             ]
         },
@@ -46090,7 +46337,7 @@
         },
         "descriptions": [
             {
-                "value": "63 ocurrencia(s)"
+                "value": "64 ocurrencia(s)"
             }
         ],
         "names": [
@@ -46281,6 +46528,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Poder vencido y amor premiado, El",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -46462,7 +46722,7 @@
             "title": "Chipre",
             "occurrences": [
                 {
-                    "value": 62
+                    "value": 63
                 }
             ]
         },
@@ -46475,7 +46735,7 @@
         },
         "descriptions": [
             {
-                "value": "62 ocurrencia(s)"
+                "value": "63 ocurrencia(s)"
             }
         ],
         "names": [
@@ -46783,6 +47043,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Pobreza no es vileza",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -46908,7 +47181,7 @@
             "title": "Troya",
             "occurrences": [
                 {
-                    "value": 345
+                    "value": 349
                 }
             ]
         },
@@ -46921,7 +47194,7 @@
         },
         "descriptions": [
             {
-                "value": "345 ocurrencia(s)"
+                "value": "349 ocurrencia(s)"
             }
         ],
         "names": [
@@ -47873,6 +48146,19 @@
                 "Book title": "Parte XXV",
                 "Publication date": "1647",
                 "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Esclava de su hijo, La",
+                "genre": "Comedia",
+                "subgenre": "Novelesco",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1616-1618",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -48915,20 +49201,20 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Palacios de Galiana, Los",
-                "genre": "Drama",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
                 "subgenre": "Caballeresco",
                 "Microgenre": "",
-                "Book title": "Parte XXIII",
-                "Publication date": "1638",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -49007,6 +49293,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -49672,7 +49971,7 @@
             "title": "Asia",
             "occurrences": [
                 {
-                    "value": 172
+                    "value": 175
                 }
             ]
         },
@@ -49685,7 +49984,7 @@
         },
         "descriptions": [
             {
-                "value": "172 ocurrencia(s)"
+                "value": "175 ocurrencia(s)"
             }
         ],
         "names": [
@@ -50330,6 +50629,19 @@
                 "occurrences": "1"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Paces de los reyes y judía de Toledo, Las",
                 "genre": "Drama",
@@ -50340,6 +50652,19 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
                 "occurrences": "2"
             },
             {
@@ -50534,7 +50859,7 @@
             "title": "África",
             "occurrences": [
                 {
-                    "value": 254
+                    "value": 256
                 }
             ]
         },
@@ -50547,7 +50872,7 @@
         },
         "descriptions": [
             {
-                "value": "254 ocurrencia(s)"
+                "value": "256 ocurrencia(s)"
             }
         ],
         "names": [
@@ -51452,6 +51777,19 @@
                 "occurrences": "1"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Palacios de Galiana, Los",
                 "genre": "Drama",
@@ -51877,7 +52215,7 @@
             "title": "Arabia",
             "occurrences": [
                 {
-                    "value": 86
+                    "value": 89
                 }
             ]
         },
@@ -51890,7 +52228,7 @@
         },
         "descriptions": [
             {
-                "value": "86 ocurrencia(s)"
+                "value": "89 ocurrencia(s)"
             }
         ],
         "names": [
@@ -52481,6 +52819,32 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -54058,7 +54422,7 @@
             "title": "Flandes",
             "occurrences": [
                 {
-                    "value": 385
+                    "value": 386
                 }
             ]
         },
@@ -54071,7 +54435,7 @@
         },
         "descriptions": [
             {
-                "value": "385 ocurrencia(s)"
+                "value": "386 ocurrencia(s)"
             }
         ],
         "names": [
@@ -55143,6 +55507,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -62190,7 +62567,7 @@
             "title": "Marruecos",
             "occurrences": [
                 {
-                    "value": 59
+                    "value": 61
                 }
             ]
         },
@@ -62203,7 +62580,7 @@
         },
         "descriptions": [
             {
-                "value": "59 ocurrencia(s)"
+                "value": "61 ocurrencia(s)"
             }
         ],
         "names": [
@@ -62495,6 +62872,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -63999,7 +64389,7 @@
             "title": "La Meca",
             "occurrences": [
                 {
-                    "value": 29
+                    "value": 30
                 }
             ]
         },
@@ -64012,7 +64402,7 @@
         },
         "descriptions": [
             {
-                "value": "29 ocurrencia(s)"
+                "value": "30 ocurrencia(s)"
             }
         ],
         "names": [
@@ -64213,6 +64603,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -65249,7 +65652,7 @@
             "title": "Etiopía",
             "occurrences": [
                 {
-                    "value": 50
+                    "value": 52
                 }
             ]
         },
@@ -65262,7 +65665,7 @@
         },
         "descriptions": [
             {
-                "value": "50 ocurrencia(s)"
+                "value": "52 ocurrencia(s)"
             }
         ],
         "names": [
@@ -65648,6 +66051,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Peligros de la ausencia, Los",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -65655,6 +66071,19 @@
                 "Book title": "Parte XXIV",
                 "Publication date": "1641",
                 "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -66915,7 +67344,7 @@
             "title": "Andalucía",
             "occurrences": [
                 {
-                    "value": 72
+                    "value": 74
                 }
             ]
         },
@@ -66928,7 +67357,7 @@
         },
         "descriptions": [
             {
-                "value": "72 ocurrencia(s)"
+                "value": "74 ocurrencia(s)"
             }
         ],
         "names": [
@@ -67324,6 +67753,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -68235,7 +68677,7 @@
             "title": "Sicilia",
             "occurrences": [
                 {
-                    "value": 210
+                    "value": 211
                 }
             ]
         },
@@ -68248,7 +68690,7 @@
         },
         "descriptions": [
             {
-                "value": "210 ocurrencia(s)"
+                "value": "211 ocurrencia(s)"
             }
         ],
         "names": [
@@ -68824,6 +69266,19 @@
                 "Publication date": "Sin fecha",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -72216,7 +72671,7 @@
             "title": "París",
             "occurrences": [
                 {
-                    "value": 394
+                    "value": 404
                 }
             ]
         },
@@ -72229,7 +72684,7 @@
         },
         "descriptions": [
             {
-                "value": "394 ocurrencia(s)"
+                "value": "404 ocurrencia(s)"
             }
         ],
         "names": [
@@ -72872,6 +73327,19 @@
                 "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "10"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -74094,7 +74562,7 @@
             "title": "Turquía",
             "occurrences": [
                 {
-                    "value": 14
+                    "value": 16
                 }
             ]
         },
@@ -74107,7 +74575,7 @@
         },
         "descriptions": [
             {
-                "value": "14 ocurrencia(s)"
+                "value": "16 ocurrencia(s)"
             }
         ],
         "names": [
@@ -74256,6 +74724,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -74522,7 +75003,7 @@
             "title": "Sanlúcar",
             "occurrences": [
                 {
-                    "value": 31
+                    "value": 38
                 }
             ]
         },
@@ -74535,7 +75016,7 @@
         },
         "descriptions": [
             {
-                "value": "31 ocurrencia(s)"
+                "value": "38 ocurrencia(s)"
             }
         ],
         "names": [
@@ -74684,6 +75165,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+                        {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "7"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -75561,7 +76055,7 @@
             "title": "Argel",
             "occurrences": [
                 {
-                    "value": 331
+                    "value": 363
                 }
             ]
         },
@@ -75574,7 +76068,7 @@
         },
         "descriptions": [
             {
-                "value": "331 ocurrencia(s)"
+                "value": "363 ocurrencia(s)"
             }
         ],
         "names": [
@@ -76399,6 +76893,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "32"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -78434,7 +78941,7 @@
             "title": "Cádiz",
             "occurrences": [
                 {
-                    "value": 52
+                    "value": 56
                 }
             ]
         },
@@ -78447,7 +78954,7 @@
         },
         "descriptions": [
             {
-                "value": "52 ocurrencia(s)"
+                "value": "56 ocurrencia(s)"
             }
         ],
         "names": [
@@ -78726,6 +79233,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "4"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -80331,7 +80851,7 @@
             "title": "Persia",
             "occurrences": [
                 {
-                    "value": 114
+                    "value": 116
                 }
             ]
         },
@@ -80344,7 +80864,7 @@
         },
         "descriptions": [
             {
-                "value": "114 ocurrencia(s)"
+                "value": "116 ocurrencia(s)"
             }
         ],
         "names": [
@@ -80756,6 +81276,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Perro del hortelano, El",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -80776,6 +81309,19 @@
                 "Book title": "Parte XXI",
                 "Publication date": "1635",
                 "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -81745,7 +82291,7 @@
             "title": "Hungría",
             "occurrences": [
                 {
-                    "value": 300
+                    "value": 302
                 }
             ]
         },
@@ -81758,7 +82304,7 @@
         },
         "descriptions": [
             {
-                "value": "300 ocurrencia(s)"
+                "value": "302 ocurrencia(s)"
             }
         ],
         "names": [
@@ -82183,6 +82729,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Porfiando vence amor",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -82438,7 +82997,7 @@
             "title": "Bohemia",
             "occurrences": [
                 {
-                    "value": 64
+                    "value": 65
                 }
             ]
         },
@@ -82451,7 +83010,7 @@
         },
         "descriptions": [
             {
-                "value": "64 ocurrencia(s)"
+                "value": "65 ocurrencia(s)"
             }
         ],
         "names": [
@@ -82519,6 +83078,19 @@
                 "Book title": "Parte XIX",
                 "Publication date": "1624",
                 "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Esclava de su hijo, La",
+                "genre": "Comedia",
+                "subgenre": "Novelesco",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1616-1618",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -82715,7 +83287,7 @@
             "title": "Inglaterra",
             "occurrences": [
                 {
-                    "value": 209
+                    "value": 217
                 }
             ]
         },
@@ -82728,7 +83300,7 @@
         },
         "descriptions": [
             {
-                "value": "209 ocurrencia(s)"
+                "value": "217 ocurrencia(s)"
             }
         ],
         "names": [
@@ -83360,6 +83932,19 @@
                 "occurrences": "3"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Piedad ejecutada, La",
                 "genre": "Drama",
@@ -83374,16 +83959,16 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Pleitos de Inglaterra, Los",
-                "genre": "Comedia",
-                "subgenre": "Palatino",
-                "Microgenre": "",
-                "Book title": "Parte XXIII",
-                "Publication date": "1638",
-                "Date": "1595-1609",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "23"
+                "occurrences": "7"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -83396,7 +83981,7 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "2"
+                "occurrences": "25"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -83672,7 +84257,7 @@
             "title": "El Cairo",
             "occurrences": [
                 {
-                    "value": 18
+                    "value": 19
                 }
             ]
         },
@@ -83685,7 +84270,7 @@
         },
         "descriptions": [
             {
-                "value": "18 ocurrencia(s)"
+                "value": "19 ocurrencia(s)"
             }
         ],
         "names": [
@@ -83806,6 +84391,19 @@
                 "Publication date": "1618",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -92514,7 +93112,7 @@
             "title": "Berbería",
             "occurrences": [
                 {
-                    "value": 40
+                    "value": 43
                 }
             ]
         },
@@ -92527,7 +93125,7 @@
         },
         "descriptions": [
             {
-                "value": "40 ocurrencia(s)"
+                "value": "43 ocurrencia(s)"
             }
         ],
         "names": [
@@ -92793,6 +93391,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -99538,7 +100149,7 @@
             "title": "Océano Índico",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -99551,7 +100162,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -99608,6 +100219,19 @@
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             },
             {
@@ -104086,7 +104710,7 @@
             "title": "Damasco",
             "occurrences": [
                 {
-                    "value": 8
+                    "value": 9
                 }
             ]
         },
@@ -104099,7 +104723,7 @@
         },
         "descriptions": [
             {
-                "value": "8 ocurrencia(s)"
+                "value": "9 ocurrencia(s)"
             }
         ],
         "names": [
@@ -104185,6 +104809,19 @@
                 "occurrences": "1"
             },
             {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Robo de Dina, El",
                 "genre": "Drama",
@@ -104233,7 +104870,7 @@
             "title": "Alejandría",
             "occurrences": [
                 {
-                    "value": 23
+                    "value": 24
                 }
             ]
         },
@@ -104246,7 +104883,7 @@
         },
         "descriptions": [
             {
-                "value": "23 ocurrencia(s)"
+                "value": "24 ocurrencia(s)"
             }
         ],
         "names": [
@@ -104380,6 +105017,19 @@
                 "Publication date": "1647",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -106634,7 +107284,7 @@
             "title": "Constantinopla",
             "occurrences": [
                 {
-                    "value": 65
+                    "value": 69
                 }
             ]
         },
@@ -106647,7 +107297,7 @@
         },
         "descriptions": [
             {
-                "value": "65 ocurrencia(s)"
+                "value": "69 ocurrencia(s)"
             }
         ],
         "names": [
@@ -106991,6 +107641,32 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "3"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -108799,7 +109475,7 @@
             "title": "Tarudante",
             "occurrences": [
                 {
-                    "value": 11
+                    "value": 12
                 }
             ]
         },
@@ -108812,7 +109488,7 @@
         },
         "descriptions": [
             {
-                "value": "11 ocurrencia(s)"
+                "value": "12 ocurrencia(s)"
             }
         ],
         "names": [
@@ -108868,6 +109544,19 @@
                 "Publication date": "1637",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -108933,7 +109622,7 @@
             "title": "Tafilete",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -108946,7 +109635,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -108989,6 +109678,19 @@
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -112554,7 +113256,7 @@
             "title": "Palestina",
             "occurrences": [
                 {
-                    "value": 14
+                    "value": 15
                 }
             ]
         },
@@ -112567,7 +113269,7 @@
         },
         "descriptions": [
             {
-                "value": "14 ocurrencia(s)"
+                "value": "15 ocurrencia(s)"
             }
         ],
         "names": [
@@ -112675,6 +113377,19 @@
                 "Publication date": "1614",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -126225,7 +126940,7 @@
             "title": "Macedonia",
             "occurrences": [
                 {
-                    "value": 38
+                    "value": 43
                 }
             ]
         },
@@ -126238,7 +126953,7 @@
         },
         "descriptions": [
             {
-                "value": "38 ocurrencia(s)"
+                "value": "43 ocurrencia(s)"
             }
         ],
         "names": [
@@ -126361,6 +127076,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "5"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -127937,7 +128665,7 @@
             "title": "Media",
             "occurrences": [
                 {
-                    "value": 8
+                    "value": 10
                 }
             ]
         },
@@ -127950,7 +128678,7 @@
         },
         "descriptions": [
             {
-                "value": "8 ocurrencia(s)"
+                "value": "10 ocurrencia(s)"
             }
         ],
         "names": [
@@ -128018,6 +128746,32 @@
                 "Book title": "Parte XV",
                 "Publication date": "1620",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -134737,7 +135491,7 @@
             "title": "Britania",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -134750,7 +135504,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -134779,6 +135533,19 @@
                 "Book title": "Parte XIX",
                 "Publication date": "1624",
                 "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Platero del cielo, San Eloy, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XXI",
+                "Publication date": "1663",
+                "Date": "1611-1616",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -149560,7 +150327,7 @@
             "title": "Tracia",
             "occurrences": [
                 {
-                    "value": 7
+                    "value": 9
                 }
             ]
         },
@@ -149573,7 +150340,7 @@
         },
         "descriptions": [
             {
-                "value": "7 ocurrencia(s)"
+                "value": "9 ocurrencia(s)"
             }
         ],
         "names": [
@@ -149618,6 +150385,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palmerín de Oliva, El",
+                "genre": "Comedia",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XLIII",
+                "Publication date": "1650",
+                "Date": "1629",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -165967,8 +166747,134 @@
                 "occurrences": "1"
             }
         ]
-    }
+    },
+    {
+        "@id": "2542768",
+        "uuid": "https://www.geonames.org/2542768",
+        "type": "Feature",
+        "properties": {
+            "title": "La Mamora",
+            "occurrences": [
+                {
+                    "value": 10
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -6.67345,
+                34.25596
 
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "10 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "10"
+            }
+        ]
+    },
+     {
+        "@id": "3106073",
+        "uuid": "https://www.geonames.org/3106073",
+        "type": "Feature",
+        "properties": {
+            "title": "Viana",
+            "occurrences": [
+                {
+                    "value": 5
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.37123,
+                42.51552
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "5 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/3106073"
+            }
+        ],
+        "relations": [
+            {
+              "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palabra vengada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Comedias nuevas y escogidas de los mejores ingenios de España. Parte XLIV",
+                "Publication date": "1678",
+                "Date": "1628",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Piadoso aragonés, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "4"
+            }
+        ]
+    }
 ]
 
 }
