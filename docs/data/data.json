@@ -27712,8 +27712,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.0333333333333,
-                39.866666666667
+                -4.02263,
+                39.8581
             ]
         },
         "descriptions": [
@@ -66554,10 +66554,10 @@
         "uuid": "https://www.geonames.org/6446846",
         "type": "Feature",
         "properties": {
-            "title": "Iglesia de San Miguel el Alto",
+            "title": "San Miguel el Alto",
             "occurrences": [
                 {
-                    "value": 8
+                    "value": 7
                 }
             ]
         },
@@ -66570,7 +66570,7 @@
         },
         "descriptions": [
             {
-                "value": "8 ocurrencia(s)"
+                "value": "7 ocurrencia(s)"
             }
         ],
         "names": [
@@ -66601,20 +66601,7 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Alcalde mayor, El",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XIII",
-                "Publication date": "1620",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -66638,19 +66625,6 @@
                 "Book title": "Parte IX",
                 "Publication date": "1617",
                 "Date": "1605-1619",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Melindres de Belisa, Los",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte IX",
-                "Publication date": "1617",
-                "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
@@ -97965,8 +97939,9 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.0270194444444,
-                39.859847222222
+                -4.01970598251049,
+                39.8601019918544
+
             ]
         },
         "descriptions": [
@@ -120541,7 +120516,7 @@
         "uuid": "https://www.geonames.org/1100859",
         "type": "Feature",
         "properties": {
-            "title": "Iglesia de Santa Leocadia",
+            "title": "Santa Leocadia",
             "occurrences": [
                 {
                     "value": 4
@@ -120551,8 +120526,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.03,
-                39.86
+                -4.028387631895553,
+                39.85966926845167
             ]
         },
         "descriptions": [
@@ -124648,7 +124623,7 @@
         "uuid": "https://www.geonames.org/5553707",
         "type": "Feature",
         "properties": {
-            "title": "La Vega",
+            "title": "La Vega de Toledo",
             "occurrences": [
                 {
                     "value": 14
@@ -139741,7 +139716,7 @@
             "title": "San Miguel",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -139754,7 +139729,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -139797,6 +139772,19 @@
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Melindres de Belisa, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte IX",
+                "Publication date": "1617",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
@@ -139990,10 +139978,10 @@
         "uuid": "https://www.geonames.org/5117763",
         "type": "Feature",
         "properties": {
-            "title": "El Carmen",
+            "title": "Nuestra Señora del Carmen",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 3
                 }
             ]
         },
@@ -140006,7 +139994,7 @@
         },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -140051,7 +140039,50 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "2"
+            }
+        ]
+    },
+    {
+        "@id": "16552567",
+        "uuid": "https://www.geonames.org/16552567",
+        "type": "Feature",
+        "properties": {
+            "title": "El Carmen",
+            "occurrences": [
+                {
+                    "value": 2
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.01813082457388,
+                39.859492891320926
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "2 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
             },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/5117763"
+            }
+        ],
+        "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Noche toledana, La",
@@ -142187,8 +142218,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -4.032185,
-                39.859127
+                -4.032892800784065,
+                39.858959978538074
             ]
         },
         "descriptions": [
