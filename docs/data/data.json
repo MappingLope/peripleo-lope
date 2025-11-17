@@ -72586,7 +72586,7 @@
         "uuid": "https://www.geonames.org/5910569",
         "type": "Feature",
         "properties": {
-            "title": "Iglesia de San Juan de la Palma",
+            "title": "San Juan de la Palma",
             "occurrences": [
                 {
                     "value": 2
@@ -153607,8 +153607,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -5.9902790532734,
-                37.395503385249
+                -5.988144,
+                37.397514
             ]
         },
         "descriptions": [
@@ -163580,8 +163580,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -5.994727,
-                37.383752
+                -5.995641366020498,
+                37.38374974997941
             ]
         },
         "descriptions": [
