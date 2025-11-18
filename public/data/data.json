@@ -160784,8 +160784,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -5.9877,
-                37.3937
+                -5.993424009607992,
+                37.38703718553728
             ]
         },
         "descriptions": [
@@ -163629,7 +163629,7 @@
             "title": "Gradas",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -163642,7 +163642,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -163673,7 +163673,7 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
