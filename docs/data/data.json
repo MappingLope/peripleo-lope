@@ -97976,7 +97976,7 @@
                 "Publication date": "1612",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "2"
             },
             {
@@ -97989,7 +97989,7 @@
                 "Publication date": "1638",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
         ]
@@ -126673,7 +126673,7 @@
                 "Publication date": "1630",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "3"
             },
             {
@@ -126686,7 +126686,7 @@
                 "Publication date": "1635",
                 "Date": "1630-1635",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
         ]
@@ -164370,7 +164370,7 @@
                 "Publication date": "1618",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -165990,7 +165990,7 @@
                 "Publication date": "1625",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             }
         ]
@@ -166626,8 +166626,8 @@
         "geometry": {
             "type": "Point",
             "coordinates": [
-                -0.372036,
-                39.4833
+                -0.38007315174539086,
+                39.48318428585325
             ]
         },
         "descriptions": [
