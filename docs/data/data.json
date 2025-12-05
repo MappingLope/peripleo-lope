@@ -3192,7 +3192,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -13334,7 +13334,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -16728,7 +16728,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -17234,7 +17234,7 @@
             "title": "Castilla",
             "occurrences": [
                 {
-                    "value": 1312
+                    "value": 1313
                 }
             ]
         },
@@ -17247,7 +17247,7 @@
         },
         "descriptions": [
             {
-                "value": "1312 ocurrencia(s)"
+                "value": "1313 ocurrencia(s)"
             }
         ],
         "names": [
@@ -19099,7 +19099,7 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
-            },
+            },         
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Poder vencido y amor premiado, El",
@@ -19137,7 +19137,7 @@
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "6"
+                "occurrences": "7"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -19297,7 +19297,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -19670,20 +19670,7 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "67"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Varona castellana, La",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos públicos",
-                "Book title": "Parte IX",
-                "Publication date": "1619",
-                "Date": "1595-1609",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "3"
+                "occurrences": "70"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -19722,33 +19709,7 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Victoria de la honra, La",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos particulares",
-                "Book title": "Parte XXI",
-                "Publication date": "1635",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Victoria de la honra, La",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos particulares",
-                "Book title": "Parte XXI",
-                "Publication date": "1635",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "2"
+                "occurrences": "4"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -20133,7 +20094,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -20613,7 +20574,7 @@
             "title": "Galicia",
             "occurrences": [
                 {
-                    "value": 105
+                    "value": 106
                 }
             ]
         },
@@ -20626,7 +20587,7 @@
         },
         "descriptions": [
             {
-                "value": "105 ocurrencia(s)"
+                "value": "106 ocurrencia(s)"
             }
         ],
         "names": [
@@ -21114,6 +21075,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Serafín humano, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XIX",
+                "Publication date": "1624",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Tirano castigado, El",
@@ -25548,7 +25522,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -40911,7 +40885,7 @@
             "title": "Escitia",
             "occurrences": [
                 {
-                    "value": 55
+                    "value": 57
                 }
             ]
         },
@@ -40924,7 +40898,7 @@
         },
         "descriptions": [
             {
-                "value": "55 ocurrencia(s)"
+                "value": "57 ocurrencia(s)"
             }
         ],
         "names": [
@@ -41427,6 +41401,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palacios de Galiana, Los",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },           
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Pastoral de Jacinto, La",
                 "genre": "Comedia",
                 "subgenre": "Pastoril",
@@ -41438,6 +41425,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Pedro de Urdemalas",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Suelta",
+                "Publication date": "Sin fecha",
+                "Date": "1600-1614",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Piadoso aragonés, El",
@@ -42314,7 +42314,7 @@
             "title": "Atocha",
             "occurrences": [
                 {
-                    "value": 29
+                    "value": 31
                 }
             ]
         },
@@ -42327,7 +42327,7 @@
         },
         "descriptions": [
             {
-                "value": "29 ocurrencia(s)"
+                "value": "31 ocurrencia(s)"
             }
         ],
         "names": [
@@ -42451,6 +42451,19 @@
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "7"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Portuguesa y dicha del forastero, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Colección de comedias escogidas. Parte III",
+                "Publication date": "1653",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "2"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "San Isidro Labrador de Madrid",
@@ -43566,7 +43579,7 @@
             "title": "Grecia",
             "occurrences": [
                 {
-                    "value": 231
+                    "value": 232
                 }
             ]
         },
@@ -43579,7 +43592,7 @@
         },
         "descriptions": [
             {
-                "value": "231 ocurrencia(s)"
+                "value": "232 ocurrencia(s)"
             }
         ],
         "names": [
@@ -45239,6 +45252,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ventura sin buscalla, La",
+                "genre": "Drama",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Ventura y atrevimiento",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -45871,7 +45897,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -45970,7 +45996,7 @@
             "title": "Manzanares",
             "occurrences": [
                 {
-                    "value": 67
+                    "value": 69
                 }
             ]
         },
@@ -45983,7 +46009,7 @@
         },
         "descriptions": [
             {
-                "value": "67 ocurrencia(s)"
+                "value": "69 ocurrencia(s)"
             }
         ],
         "names": [
@@ -46252,6 +46278,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Rústico del cielo, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "San Isidro Labrador de Madrid",
                 "genre": "Drama",
                 "subgenre": "Historial religioso",
@@ -46296,6 +46335,19 @@
                 "subgenre": "Urbano",
                 "Microgenre": "",
                 "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Vaquero de Moraña, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VIII",
                 "Publication date": "1617",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
@@ -46537,7 +46589,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -55965,7 +56017,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -56564,6 +56616,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Yo he hecho lo que he podido, fortuna lo que ha querido",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Suelta",
+                "Publication date": "1632-1634",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
             }
         ]
     },
@@ -59343,7 +59408,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -59494,7 +59559,7 @@
             "title": "Tajo",
             "occurrences": [
                 {
-                    "value": 182
+                    "value": 183
                 }
             ]
         },
@@ -59507,7 +59572,7 @@
         },
         "descriptions": [
             {
-                "value": "182 ocurrencia(s)"
+                "value": "183 ocurrencia(s)"
             }
         ],
         "names": [
@@ -59823,7 +59888,7 @@
                 "Publication date": "1617",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
             {
@@ -59901,7 +59966,7 @@
                 "Publication date": "1621",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "9"
             },            
             {
@@ -59979,7 +60044,7 @@
                 "Publication date": "1621",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },            
             {
@@ -60387,6 +60452,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Serrana de Tormes, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XVI",
+                "Publication date": "1621",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Servir con mala estrella, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -60486,7 +60564,7 @@
             "title": "Betis",
             "occurrences": [
                 {
-                    "value": 75
+                    "value": 76
                 }
             ]
         },
@@ -60499,7 +60577,7 @@
         },
         "descriptions": [
             {
-                "value": "75 ocurrencia(s)"
+                "value": "76 ocurrencia(s)"
             }
         ],
         "names": [
@@ -61054,6 +61132,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Roma abrasada",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Ruiseñor de Sevilla, El",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -61512,7 +61603,7 @@
             "title": "Nilo",
             "occurrences": [
                 {
-                    "value": 33
+                    "value": 38
                 }
             ]
         },
@@ -61525,7 +61616,7 @@
         },
         "descriptions": [
             {
-                "value": "33 ocurrencia(s)"
+                "value": "38 ocurrencia(s)"
             }
         ],
         "names": [
@@ -61802,7 +61893,7 @@
                 "Publication date": "1620",
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },            
             {
@@ -61867,7 +61958,7 @@
                 "Publication date": "1618",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
             {
@@ -61924,6 +62015,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Príncipe despenado, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Príncipe perfecto, Segunda parte, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -61935,6 +62039,19 @@
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Prisión sin culpa, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VIII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "San Nicolás de Tolentino",
@@ -61963,6 +62080,32 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Santiago el verde",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XIII",
+                "Publication date": "1620",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Silencio agradecido, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XXXI",
+                "Publication date": "1638",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Torneos de Aragón, Los",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -61971,6 +62114,19 @@
                 "Publication date": "1614",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Vellocino de oro, El",
+                "genre": "Drama",
+                "subgenre": "Mitológico",
+                "Microgenre": "",
+                "Book title": "Parte XIX",
+                "Publication date": "1624",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
@@ -62377,7 +62533,7 @@
             "title": "Túnez",
             "occurrences": [
                 {
-                    "value": 79
+                    "value": 80
                 }
             ]
         },
@@ -62390,7 +62546,7 @@
         },
         "descriptions": [
             {
-                "value": "79 ocurrencia(s)"
+                "value": "80 ocurrencia(s)"
             }
         ],
         "names": [
@@ -62836,7 +62992,7 @@
             "title": "Fez",
             "occurrences": [
                 {
-                    "value": 66
+                    "value": 67
                 }
             ]
         },
@@ -62849,7 +63005,7 @@
         },
         "descriptions": [
             {
-                "value": "66 ocurrencia(s)"
+                "value": "67 ocurrencia(s)"
             }
         ],
         "names": [
@@ -63092,6 +63248,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Peligros de la ausencia, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XXIV",
+                "Publication date": "1641",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Premio de la hermosura, El",
                 "genre": "Drama",
                 "subgenre": "Caballeresco",
@@ -63142,6 +63311,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Servir con mala estrella, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Sol parado, El",
@@ -63689,7 +63871,7 @@
             "title": "Trípoli",
             "occurrences": [
                 {
-                    "value": 8
+                    "value": 9
                 }
             ]
         },
@@ -63702,7 +63884,7 @@
         },
         "descriptions": [
             {
-                "value": "8 ocurrencia(s)"
+                "value": "9 ocurrencia(s)"
             }
         ],
         "names": [
@@ -63797,6 +63979,19 @@
                 "Publication date": "Sin fecha",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Pobreza estimada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -64944,7 +65139,7 @@
             "title": "Archidona",
             "occurrences": [
                 {
-                    "value": 34
+                    "value": 38
                 }
             ]
         },
@@ -64957,7 +65152,7 @@
         },
         "descriptions": [
             {
-                "value": "34 ocurrencia(s)"
+                "value": "38 ocurrencia(s)"
             }
         ],
         "names": [
@@ -65028,7 +65223,20 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "30"
-            },                      
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Paces de los reyes y judía de Toledo, Las",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },                                  
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Pedro Carbonero",
@@ -65041,7 +65249,33 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
-            }
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Porfiar hasta morir",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Servir con mala estrella, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }            
         ]
     },
     {
@@ -65632,7 +65866,7 @@
             "title": "Guadalquivir",
             "occurrences": [
                 {
-                    "value": 22
+                    "value": 23
                 }
             ]
         },
@@ -65645,7 +65879,7 @@
         },
         "descriptions": [
             {
-                "value": "22 ocurrencia(s)"
+                "value": "23 ocurrencia(s)"
             }
         ],
         "names": [
@@ -65895,6 +66129,19 @@
                 "Book title": "Parte XX",
                 "Publication date": "1625",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Victoria de la honra, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
@@ -67341,7 +67588,7 @@
             "title": "Archipiélago",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -67354,7 +67601,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -67397,7 +67644,20 @@
                 "Publication date": "1619",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Accidente geográfico",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Rey sin reino, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -67410,7 +67670,7 @@
             "title": "Morea",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 3
                 }
             ]
         },
@@ -67423,7 +67683,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -67455,7 +67715,20 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
-            }
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Santa Liga, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            }            
         ]
     },
     {
@@ -68035,7 +68308,21 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Príncipe perfecto, Segunda parte, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
+
         ]
     },
     {
@@ -70548,7 +70835,7 @@
             "title": "Ávila",
             "occurrences": [
                 {
-                    "value": 46
+                    "value": 45
                 }
             ]
         },
@@ -70561,7 +70848,7 @@
         },
         "descriptions": [
             {
-                "value": "46 ocurrencia(s)"
+                "value": "45 ocurrencia(s)"
             }
         ],
         "names": [
@@ -70773,19 +71060,6 @@
                 "Publication date": "1621",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Ramilletes de Madrid, Los",
-                "genre": "Comedia",
-                "subgenre": "Urbano",
-                "Microgenre": "",
-                "Book title": "Parte XI",
-                "Publication date": "1618",
-                "Date": "1610-1624",
-                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -73300,7 +73574,7 @@
             "title": "Sajonia",
             "occurrences": [
                 {
-                    "value": 10
+                    "value": 11
                 }
             ]
         },
@@ -73313,7 +73587,7 @@
         },
         "descriptions": [
             {
-                "value": "10 ocurrencia(s)"
+                "value": "11 ocurrencia(s)"
             }
         ],
         "names": [
@@ -73410,6 +73684,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valor de las mujeres, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -74327,20 +74614,7 @@
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Torneos de Aragón, Los",
-                "genre": "Comedia",
-                "subgenre": "Palatino",
-                "Microgenre": "",
-                "Book title": "Parte IV",
-                "Publication date": "1614",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "10"
+                "occurrences": "11"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -74447,7 +74721,7 @@
             "title": "Triana",
             "occurrences": [
                 {
-                    "value": 35
+                    "value": 36
                 }
             ]
         },
@@ -74460,7 +74734,7 @@
         },
         "descriptions": [
             {
-                "value": "35 ocurrencia(s)"
+                "value": "36 ocurrencia(s)"
             }
         ],
         "names": [
@@ -74623,6 +74897,19 @@
                 "Type": "Entidad política",
                 "occurrences": "4"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Por la puente, Juana",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Premio del bien hablar, El",
@@ -76939,7 +77226,7 @@
             "title": "Argel",
             "occurrences": [
                 {
-                    "value": 365
+                    "value": 367
                 }
             ]
         },
@@ -76952,7 +77239,7 @@
         },
         "descriptions": [
             {
-                "value": "365 ocurrencia(s)"
+                "value": "367 ocurrencia(s)"
             }
         ],
         "names": [
@@ -77856,6 +78143,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Portuguesa y dicha del forastero, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Colección de comedias escogidas. Parte III",
+                "Publication date": "1653",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Postrer godo de España, El",
@@ -79583,7 +79883,7 @@
             "title": "Tiro",
             "occurrences": [
                 {
-                    "value": 13
+                    "value": 14
                 }
             ]
         },
@@ -79596,7 +79896,7 @@
         },
         "descriptions": [
             {
-                "value": "13 ocurrencia(s)"
+                "value": "14 ocurrencia(s)"
             }
         ],
         "names": [
@@ -79690,6 +79990,19 @@
                 "Book title": "Parte XII",
                 "Publication date": "1619",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Robo de Dina, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Antiguo Testamento",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -83292,7 +83605,7 @@
             "title": "Hungría",
             "occurrences": [
                 {
-                    "value": 302
+                    "value": 303
                 }
             ]
         },
@@ -83305,7 +83618,7 @@
         },
         "descriptions": [
             {
-                "value": "302 ocurrencia(s)"
+                "value": "303 ocurrencia(s)"
             }
         ],
         "names": [
@@ -83791,59 +84104,7 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Rey sin reino, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "",
-                "Book title": "Parte XX",
-                "Publication date": "1625",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "65"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Rey sin reino, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "",
-                "Book title": "Parte XX",
-                "Publication date": "1625",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Rey sin reino, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "",
-                "Book title": "Parte XX",
-                "Publication date": "1625",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
-            },
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Rey sin reino, El",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "",
-                "Book title": "Parte XX",
-                "Publication date": "1625",
-                "Date": "1600-1614",
-                "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "70"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -83869,7 +84130,7 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "1"
+                "occurrences": "2"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -86223,7 +86484,7 @@
             "title": "Peloro",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -86236,7 +86497,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -86268,7 +86529,20 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
-            }
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Roma abrasada",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }  
         ]
     },
     {
@@ -86348,7 +86622,7 @@
             "title": "Ganges",
             "occurrences": [
                 {
-                    "value": 19
+                    "value": 20
                 }
             ]
         },
@@ -86361,7 +86635,7 @@
         },
         "descriptions": [
             {
-                "value": "19 ocurrencia(s)"
+                "value": "20 ocurrencia(s)"
             }
         ],
         "names": [
@@ -86573,6 +86847,32 @@
                 "Publication date": "1621",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Santa Liga, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Tres diamantes, Los",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte II",
+                "Publication date": "1609",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
@@ -86815,7 +87115,7 @@
             "title": "Capitolio",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 5
                 }
             ]
         },
@@ -86828,7 +87128,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -86860,6 +87160,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Accidente geográfico",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Roma abrasada",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "3"
             }
         ]
     },
@@ -87268,7 +87581,7 @@
             "title": "Farsalia",
             "occurrences": [
                 {
-                    "value": 8
+                    "value": 9
                 }
             ]
         },
@@ -87281,7 +87594,7 @@
         },
         "descriptions": [
             {
-                "value": "8 ocurrencia(s)"
+                "value": "9 ocurrencia(s)"
             }
         ],
         "names": [
@@ -87394,6 +87707,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Roma abrasada",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Valor, fortuna y lealtad de los Tellos de Meneses",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -87415,7 +87741,7 @@
             "title": "Alba",
             "occurrences": [
                 {
-                    "value": 92
+                    "value": 124
                 }
             ]
         },
@@ -87428,7 +87754,7 @@
         },
         "descriptions": [
             {
-                "value": "92 ocurrencia(s)"
+                "value": "124 ocurrencia(s)"
             }
         ],
         "names": [
@@ -87697,6 +88023,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Piedad ejecutada, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Porfiar hasta morir",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -87736,6 +88075,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Secretario de sí mismo, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Serrana de Tormes, La",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -87749,6 +88101,32 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Sol parado, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XVII",
+                "Publication date": "1621",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "18"
+            },           
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Ventura sin buscalla, La",
                 "genre": "Drama",
                 "subgenre": "Palatino",
@@ -87759,6 +88137,45 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Victoria de la honra, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "7"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Virtud, pobreza y mujer",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Yerros por amor, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Suelta",
+                "Publication date": "Sin fecha",
+                "Date": "1620-1634",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             }
         ]
     },
@@ -90521,7 +90938,7 @@
             "title": "Saboya",
             "occurrences": [
                 {
-                    "value": 20
+                    "value": 25
                 }
             ]
         },
@@ -90534,7 +90951,7 @@
         },
         "descriptions": [
             {
-                "value": "20 ocurrencia(s)"
+                "value": "25 ocurrencia(s)"
             }
         ],
         "names": [
@@ -90699,6 +91116,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Santa Liga, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "4"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Soldado amante, El",
                 "genre": "Drama",
                 "subgenre": "Palatino",
@@ -90707,6 +91137,19 @@
                 "Publication date": "1621",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valor de las mujeres, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
@@ -92458,7 +92901,7 @@
             "title": "Almazán",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -92471,7 +92914,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -92529,7 +92972,20 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
-            },            
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },                        
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Ramírez de Arellano, Los",
@@ -92886,7 +93342,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -92920,7 +93376,7 @@
             "title": "Ebro",
             "occurrences": [
                 {
-                    "value": 16
+                    "value": 23
                 }
             ]
         },
@@ -92933,7 +93389,7 @@
         },
         "descriptions": [
             {
-                "value": "16 ocurrencia(s)"
+                "value": "23 ocurrencia(s)"
             }
         ],
         "names": [
@@ -92963,7 +93419,7 @@
                 "Publication date": "1618",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
             {
@@ -93072,6 +93528,45 @@
             },      
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palacios de Galiana, Los",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Primera información, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XXII",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "2"
+            }, 
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Querer la propia desdicha",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },                       
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Quien más no puede",
                 "genre": "Drama",
                 "subgenre": "Palatino",
@@ -93080,6 +93575,19 @@
                 "Publication date": "1621",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "San Segundo de Ávila",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
@@ -93096,6 +93604,19 @@
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Testigo contra sí, El",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "2"
+            },      
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Torneos de Aragón, Los",
@@ -93798,7 +94319,7 @@
             "title": "Tebas",
             "occurrences": [
                 {
-                    "value": 32
+                    "value": 35
                 }
             ]
         },
@@ -93811,7 +94332,7 @@
         },
         "descriptions": [
             {
-                "value": "32 ocurrencia(s)"
+                "value": "35 ocurrencia(s)"
             }
         ],
         "names": [
@@ -94080,6 +94601,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Prueba de los ingenios, La",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte IX",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Quinta de Florencia, La",
                 "genre": "Drama",
                 "subgenre": "Palatino",
@@ -94143,6 +94677,32 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Silencio agradecido, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XXXI",
+                "Publication date": "1638",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },    
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valor, fortuna y lealtad de los Tellos de Meneses",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Suelta",
+                "Publication date": "Sin fecha",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },         
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Viuda, casada y doncella, La",
@@ -96122,7 +96682,7 @@
             "title": "Bayona",
             "occurrences": [
                 {
-                    "value": 10
+                    "value": 11
                 }
             ]
         },
@@ -96135,7 +96695,7 @@
         },
         "descriptions": [
             {
-                "value": "10 ocurrencia(s)"
+                "value": "11 ocurrencia(s)"
             }
         ],
         "names": [
@@ -96206,7 +96766,20 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
-            },            
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },                        
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Resistencia honrada y condesa Matilde, La",
@@ -96917,7 +97490,7 @@
             "title": "Cabo de Buena Esperanza",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -96930,7 +97503,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -96975,7 +97548,20 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
-            }
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Príncipe perfecto, Segunda parte, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            }            
         ]
     },
     {
@@ -98399,7 +98985,7 @@
             "title": "Mesina",
             "occurrences": [
                 {
-                    "value": 18
+                    "value": 20
                 }
             ]
         },
@@ -98412,7 +98998,7 @@
         },
         "descriptions": [
             {
-                "value": "18 ocurrencia(s)"
+                "value": "20 ocurrencia(s)"
             }
         ],
         "names": [
@@ -98523,6 +99109,32 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palacios de Galiana, Los",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Poder en el discreto, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },                        
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Santa Liga, La",
@@ -101157,7 +101769,7 @@
             "title": "Medina del Campo",
             "occurrences": [
                 {
-                    "value": 37
+                    "value": 38
                 }
             ]
         },
@@ -101170,7 +101782,7 @@
         },
         "descriptions": [
             {
-                "value": "37 ocurrencia(s)"
+                "value": "38 ocurrencia(s)"
             }
         ],
         "names": [
@@ -101281,6 +101893,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Peribáñez y el comendador de Ocaña",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Honra villana",
+                "Book title": "Parte IV",
+                "Publication date": "1614",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Piadoso aragonés, El",
@@ -103057,7 +103682,7 @@
             "title": "Altamira",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -103070,7 +103695,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -103125,6 +103750,19 @@
                 "Book title": "Parte X",
                 "Publication date": "1618",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -104485,7 +105123,7 @@
             "title": "Saldaña",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 7
                 }
             ]
         },
@@ -104498,7 +105136,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "7 ocurrencia(s)"
             }
         ],
         "names": [
@@ -104540,6 +105178,45 @@
                 "Book title": "Parte X",
                 "Publication date": "1618",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Prados de León, Los",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XVI",
+                "Publication date": "1621",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Virtud, pobreza y mujer",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -104787,7 +105464,7 @@
             "title": "Feria",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -104800,7 +105477,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -104844,6 +105521,19 @@
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Yerros por amor, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Suelta",
+                "Publication date": "Sin fecha",
+                "Date": "1620-1634",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -106830,7 +107520,7 @@
             "title": "Alejandría",
             "occurrences": [
                 {
-                    "value": 29
+                    "value": 31
                 }
             ]
         },
@@ -106843,7 +107533,7 @@
         },
         "descriptions": [
             {
-                "value": "29 ocurrencia(s)"
+                "value": "31 ocurrencia(s)"
             }
         ],
         "names": [
@@ -107058,6 +107748,32 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "San Diego de Alcalá",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Colección de comedias escogidas. Parte III",
+                "Publication date": "1653",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Serafín humano, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XIX",
+                "Publication date": "1624",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },                        
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Serrana de Tormes, La",
@@ -108567,7 +109283,7 @@
             "title": "Tormes",
             "occurrences": [
                 {
-                    "value": 13
+                    "value": 14
                 }
             ]
         },
@@ -108580,7 +109296,7 @@
         },
         "descriptions": [
             {
-                "value": "13 ocurrencia(s)"
+                "value": "14 ocurrencia(s)"
             }
         ],
         "names": [
@@ -108654,6 +109370,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Serrana de Tormes, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XVI",
+                "Publication date": "1621",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Valor, fortuna y lealtad de los Tellos de Meneses",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -108662,6 +109391,19 @@
                 "Publication date": "Sin fecha",
                 "Date": "1620-1634",
                 "Period": "Senectud (c. 1630-1635)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Venganza venturosa, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte X",
+                "Publication date": "1618",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
@@ -110196,6 +110938,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "San Diego de Alcalá",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Colección de comedias escogidas. Parte III",
+                "Publication date": "1653",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Testigo contra sí, El",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -111047,6 +111802,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Pobreza estimada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },          
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Viuda, casada y doncella, La",
                 "genre": "Comedia",
                 "subgenre": "Urbano",
@@ -111319,7 +112087,7 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
-                "occurrences": "5"
+                "occurrences": "6"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -111988,7 +112756,7 @@
             "title": "Belén",
             "occurrences": [
                 {
-                    "value": 37
+                    "value": 38
                 }
             ]
         },
@@ -112001,7 +112769,7 @@
         },
         "descriptions": [
             {
-                "value": "37 ocurrencia(s)"
+                "value": "38 ocurrencia(s)"
             }
         ],
         "names": [
@@ -112192,6 +112960,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Príncipe despenado, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Paces de los reyes y judía de Toledo, Las",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -112364,7 +113145,7 @@
             "title": "Velada",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -112377,7 +113158,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -112419,6 +113200,19 @@
                 "Book title": "Parte X",
                 "Publication date": "1618",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -113319,7 +114113,7 @@
             "title": "Tíbar",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -113332,7 +114126,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -113387,6 +114181,19 @@
                 "Book title": "Parte XI",
                 "Publication date": "1618",
                 "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Querer la propia desdicha",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -114853,7 +115660,7 @@
             "title": "Ferrara",
             "occurrences": [
                 {
-                    "value": 69
+                    "value": 84
                 }
             ]
         },
@@ -114866,7 +115673,7 @@
         },
         "descriptions": [
             {
-                "value": "69 ocurrencia(s)"
+                "value": "84 ocurrencia(s)"
             }
         ],
         "names": [
@@ -115044,6 +115851,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Tres diamantes, Los",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte II",
+                "Publication date": "1609",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "10"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Vengadora de las mujeres, La",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -115054,6 +115874,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Yo he hecho lo que he podido, fortuna lo que ha querido",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Suelta",
+                "Publication date": "1632-1634",
+                "Date": "1620-1634",
+                "Period": "Senectud (c. 1630-1635)",
+                "Type": "Entidad política",
+                "occurrences": "5"
             }
         ]
     },
@@ -116473,7 +117306,7 @@
             "title": "Grao",
             "occurrences": [
                 {
-                    "value": 15
+                    "value": 18
                 }
             ]
         },
@@ -116486,7 +117319,7 @@
         },
         "descriptions": [
             {
-                "value": "15 ocurrencia(s)"
+                "value": "18 ocurrencia(s)"
             }
         ],
         "names": [
@@ -116555,7 +117388,7 @@
                 "Publication date": "1620",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "2"
             },
             {
@@ -116568,7 +117401,7 @@
                 "Publication date": "1619",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "6"
             },
             {
@@ -116583,6 +117416,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "4"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Viuda, casada y doncella, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "3"
             }
         ]
     },
@@ -119453,7 +120299,7 @@
             "title": "Candia",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -119466,7 +120312,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -119512,6 +120358,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Rey sin reino, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Santa Liga, La",
@@ -119708,7 +120567,7 @@
             "title": "Namur",
             "occurrences": [
                 {
-                    "value": 13
+                    "value": 14
                 }
             ]
         },
@@ -119721,7 +120580,7 @@
         },
         "descriptions": [
             {
-                "value": "13 ocurrencia(s)"
+                "value": "14 ocurrencia(s)"
             }
         ],
         "names": [
@@ -119806,6 +120665,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Prisión sin culpa, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VIII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Viuda, casada y doncella, La",
@@ -120987,7 +121859,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -121851,7 +122723,7 @@
             "title": "Moncayo",
             "occurrences": [
                 {
-                    "value": 13
+                    "value": 15
                 }
             ]
         },
@@ -121864,7 +122736,7 @@
         },
         "descriptions": [
             {
-                "value": "13 ocurrencia(s)"
+                "value": "15 ocurrencia(s)"
             }
         ],
         "names": [
@@ -121951,6 +122823,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Palacios de Galiana, Los",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Primera información, La",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
@@ -121999,6 +122884,19 @@
                 "Date": "1600-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Villana de Getafe, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XIV",
+                "Publication date": "1620",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -123157,7 +124055,7 @@
             "title": "Alcalá",
             "occurrences": [
                 {
-                    "value": 10
+                    "value": 11
                 }
             ]
         },
@@ -123170,7 +124068,7 @@
         },
         "descriptions": [
             {
-                "value": "10 ocurrencia(s)"
+                "value": "11 ocurrencia(s)"
             }
         ],
         "names": [
@@ -123242,6 +124140,19 @@
                 "Type": "Entidad política",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Quien todo lo quiere",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XXII",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Rústico del cielo, El",
@@ -125137,7 +126048,21 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Postrer godo de España, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte VIII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
             }
+
         ]
     },
     {
@@ -125554,7 +126479,7 @@
             "title": "Escalona",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -125567,7 +126492,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -125609,6 +126534,19 @@
                 "Book title": "Parte XVIII",
                 "Publication date": "1623",
                 "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -126210,7 +127148,7 @@
             "title": "Pomas",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -126223,7 +127161,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -126255,6 +127193,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Pobrezas de Reinaldo, Las",
+                "genre": "Drama",
+                "subgenre": "Caballeresco",
+                "Microgenre": "",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -126266,7 +127217,7 @@
             "title": "Osuna",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 7
                 }
             ]
         },
@@ -126279,7 +127230,7 @@
         },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "7 ocurrencia(s)"
             }
         ],
         "names": [
@@ -126337,7 +127288,33 @@
                 "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "1"
-            }
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Piedad ejecutada, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }                        
         ]
     },
     {
@@ -126875,7 +127852,7 @@
             "title": "Mar Mediterráneo",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 6
                 }
             ]
         },
@@ -126888,7 +127865,7 @@
         },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "6 ocurrencia(s)"
             }
         ],
         "names": [
@@ -126970,6 +127947,19 @@
                 "Publication date": "1621",
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Viuda, casada y doncella, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             }
@@ -127303,7 +128293,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -127449,7 +128439,7 @@
             "title": "Mayorga",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -127462,7 +128452,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -127492,6 +128482,19 @@
                 "Publication date": "1604",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Piedad ejecutada, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XVIII",
+                "Publication date": "1623",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             }
@@ -128014,7 +129017,7 @@
             "title": "Huerta del Rey",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 5
                 }
             ]
         },
@@ -128027,7 +129030,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -128070,7 +129073,7 @@
                 "Publication date": "1617",
                 "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
             },
             {
@@ -128085,6 +129088,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Paces de los reyes y judía de Toledo, Las",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "2"
             }
         ]
     },
@@ -129240,7 +130256,7 @@
             "title": "Bibarrambla",
             "occurrences": [
                 {
-                    "value": 12
+                    "value": 13
                 }
             ]
         },
@@ -129253,7 +130269,7 @@
         },
         "descriptions": [
             {
-                "value": "12 ocurrencia(s)"
+                "value": "13 ocurrencia(s)"
             }
         ],
         "names": [
@@ -129362,7 +130378,7 @@
                 "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
-                "occurrences": "4"
+                "occurrences": "6"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -129962,7 +130978,7 @@
             "title": "San Martín",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -129975,7 +130991,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -130020,6 +131036,19 @@
                 "Period": "Senectud (c. 1630-1635)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Prueba de los amigos, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -130031,7 +131060,7 @@
             "title": "Genil",
             "occurrences": [
                 {
-                    "value": 13
+                    "value": 23
                 }
             ]
         },
@@ -130044,7 +131073,7 @@
         },
         "descriptions": [
             {
-                "value": "13 ocurrencia(s)"
+                "value": "23 ocurrencia(s)"
             }
         ],
         "names": [
@@ -130168,6 +131197,58 @@
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Paces de los reyes y judía de Toledo, Las",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            }, 
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Pedro Carbonero",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XIV",
+                "Publication date": "1620",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "5"
+            },
+             {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Primer Fajardo, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Traición bien acertada, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte I",
+                "Publication date": "1604",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },                                
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Valor, fortuna y lealtad de los Tellos de Meneses",
@@ -133891,6 +134972,62 @@
         ]
     },
     {
+        "@id": "10280897",
+        "uuid": "https://www.geonames.org/10280897",
+        "type": "Feature",
+        "properties": {
+            "title": "Puente de Alcántara",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.01747,
+                39.86043
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/2838423"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Por la puente, Juana",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
         "@id": "3688689",
         "uuid": "https://www.geonames.org/3688689",
         "type": "Feature",
@@ -135296,7 +136433,7 @@
             "title": "Ancona",
             "occurrences": [
                 {
-                    "value": 7
+                    "value": 9
                 }
             ]
         },
@@ -135309,7 +136446,7 @@
         },
         "descriptions": [
             {
-                "value": "7 ocurrencia(s)"
+                "value": "9 ocurrencia(s)"
             }
         ],
         "names": [
@@ -135354,6 +136491,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "5"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "San Nicolás de Tolentino",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Parte XXIV",
+                "Publication date": "1641",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "2"
             }
         ]
     },
@@ -136004,7 +137154,7 @@
             "title": "Danubio",
             "occurrences": [
                 {
-                    "value": 14
+                    "value": 15
                 }
             ]
         },
@@ -136017,7 +137167,7 @@
         },
         "descriptions": [
             {
-                "value": "14 ocurrencia(s)"
+                "value": "15 ocurrencia(s)"
             }
         ],
         "names": [
@@ -136125,7 +137275,7 @@
                 "Publication date": "1635",
                 "Date": "1630-1635",
                 "Period": "Senectud (c. 1630-1635)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },            
             {
@@ -136151,7 +137301,7 @@
                 "Publication date": "1618",
                 "Date": "1610-1624",
                 "Period": "Madurez (c. 1600-1630)",
-                "Type": "Entidad política",
+                "Type": "Accidente geográfico",
                 "occurrences": "1"
             },            
             {
@@ -136176,6 +137326,32 @@
                 "Book title": "Parte XV",
                 "Publication date": "1621",
                 "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Tres diamantes, Los",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte II",
+                "Publication date": "1609",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ventura sin buscalla, La",
+                "genre": "Drama",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
@@ -136372,7 +137548,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -136920,7 +138096,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -137926,62 +139102,6 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "2"
-            }
-        ]
-    },
-    {
-        "@id": "2517020",
-        "uuid": "https://www.geonames.org/2517020",
-        "type": "Feature",
-        "properties": {
-            "title": "Guadaíra",
-            "occurrences": [
-                {
-                    "value": 1
-                }
-            ]
-        },
-        "geometry": {
-            "type": "Point",
-            "coordinates": [
-                -6.1023888888889,
-                37.173791666667
-            ]
-        },
-        "descriptions": [
-            {
-                "value": "1 ocurrencia(s)"
-            }
-        ],
-        "names": [
-            {
-                "toponym": "Historial profano",
-                "lang": "es"
-            }
-        ],
-        "links": [
-            {
-                "type": "closeMatch",
-                "identifier": "https://pleiades.stoa.org/places/746826"
-            },
-            {
-                "type": "closeMatch",
-                "identifier": "http://www.geonames.org/2517020"
-            }
-        ],
-        "relations": [
-            {
-                "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Divina vencedora y famosos hechos de Meledín Gallinato y toma de Morón, La",
-                "genre": "Drama",
-                "subgenre": "Historial profano",
-                "Microgenre": "Hechos particulares",
-                "Book title": "Manuscrito",
-                "Publication date": "Sin fecha",
-                "Date": "1587-1604",
-                "Period": "Juventud (c. 1585-1600)",
-                "Type": "Entidad política",
-                "occurrences": "1"
             }
         ]
     },
@@ -140824,7 +141944,7 @@
             "title": "Dinádamar",
             "occurrences": [
                 {
-                    "value": 9
+                    "value": 10
                 }
             ]
         },
@@ -140837,7 +141957,7 @@
         },
         "descriptions": [
             {
-                "value": "9 ocurrencia(s)"
+                "value": "10 ocurrencia(s)"
             }
         ],
         "names": [
@@ -140931,6 +142051,19 @@
                 "Book title": "Parte XIV",
                 "Publication date": "1620",
                 "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Villano en su rincón, El",
+                "genre": "Drama",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
@@ -142658,7 +143791,7 @@
             "title": "Alaejos",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -142671,7 +143804,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -142713,6 +143846,19 @@
                 "Book title": "Parte XX",
                 "Publication date": "1625",
                 "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Testigo contra sí, El",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1595-1609",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -143143,6 +144289,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Servir con mala estrella, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -143154,7 +144313,7 @@
             "title": "Vandalia",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -143167,7 +144326,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -143206,6 +144365,19 @@
                 "genre": "Drama",
                 "subgenre": "Historial religioso",
                 "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Suerte de los reyes o los carboneros, La",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
                 "Book title": "Manuscrito",
                 "Publication date": "Sin fecha",
                 "Date": "1587-1604",
@@ -144614,7 +145786,7 @@
             "title": "Alfaques",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -144627,7 +145799,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -144672,6 +145844,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Torneos de Aragón, Los",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte IV",
+                "Publication date": "1614",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
@@ -145153,7 +146338,7 @@
             "title": "Maguncia",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 5
                 }
             ]
         },
@@ -145166,7 +146351,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -145209,6 +146394,19 @@
                 "Publication date": "1617",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
             }
@@ -145291,7 +146489,7 @@
             "title": "Membrilla",
             "occurrences": [
                 {
-                    "value": 33
+                    "value": 34
                 }
             ]
         },
@@ -145304,7 +146502,7 @@
         },
         "descriptions": [
             {
-                "value": "33 ocurrencia(s)"
+                "value": "34 ocurrencia(s)"
             }
         ],
         "names": [
@@ -145336,6 +146534,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "33"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Testigo contra sí, El",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -145636,7 +146847,7 @@
             "title": "Martos",
             "occurrences": [
                 {
-                    "value": 12
+                    "value": 13
                 }
             ]
         },
@@ -145649,7 +146860,7 @@
         },
         "descriptions": [
             {
-                "value": "12 ocurrencia(s)"
+                "value": "13 ocurrencia(s)"
             }
         ],
         "names": [
@@ -145721,6 +146932,19 @@
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Servir con mala estrella, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VI",
+                "Publication date": "1615",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Sol parado, El",
@@ -146606,7 +147830,7 @@
             "title": "Jordán",
             "occurrences": [
                 {
-                    "value": 16
+                    "value": 17
                 }
             ]
         },
@@ -146619,7 +147843,7 @@
         },
         "descriptions": [
             {
-                "value": "16 ocurrencia(s)"
+                "value": "17 ocurrencia(s)"
             }
         ],
         "names": [
@@ -146817,6 +148041,19 @@
                 "Book title": "Parte XXIII",
                 "Publication date": "1638",
                 "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Venganza venturosa, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte X",
+                "Publication date": "1618",
+                "Date": "1605-1619",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
@@ -147482,7 +148719,7 @@
             "title": "La Seo",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -147495,7 +148732,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -147527,6 +148764,19 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Viuda valenciana, La",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XIV",
+                "Publication date": "1620",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -148228,7 +149478,7 @@
             "title": "Convento de Nuestra Señora de la Merced",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -148241,7 +149491,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -148312,7 +149562,20 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
-            }
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Quien todo lo quiere",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XXII",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            }            
         ]
     },
     {
@@ -150571,7 +151834,7 @@
             "title": "Zacatín",
             "occurrences": [
                 {
-                    "value": 7
+                    "value": 8
                 }
             ]
         },
@@ -150584,7 +151847,7 @@
         },
         "descriptions": [
             {
-                "value": "7 ocurrencia(s)"
+                "value": "8 ocurrencia(s)"
             }
         ],
         "names": [
@@ -150665,6 +151928,19 @@
                 "Book title": "Parte XIV",
                 "Publication date": "1620",
                 "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Querer la propia desdicha",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "1"
@@ -151537,7 +152813,7 @@
             "title": "Tréveris",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -151550,7 +152826,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -151580,6 +152856,19 @@
                 "Publication date": "1617",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             }
@@ -152468,7 +153757,7 @@
             "title": "Monte Galaad",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -152481,7 +153770,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -152514,6 +153803,19 @@
                 "Type": "Accidente geográfico",
                 "occurrences": "1"
             },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Robo de Dina, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Antiguo Testamento",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Trabajos de Jacob. Sueños hay que verdad son, Los",
@@ -153991,7 +155293,7 @@
             "title": "Betel",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -154004,7 +155306,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -154061,6 +155363,19 @@
                 "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Accidente geográfico",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Trabajos de Jacob. Sueños hay que verdad son, Los",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Antiguo Testamento",
+                "Book title": "Parte XXII",
+                "Publication date": "1635",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -154500,7 +155815,7 @@
             "title": "Lerín",
             "occurrences": [
                 {
-                    "value": 5
+                    "value": 7
                 }
             ]
         },
@@ -154513,7 +155828,7 @@
         },
         "descriptions": [
             {
-                "value": "5 ocurrencia(s)"
+                "value": "7 ocurrencia(s)"
             }
         ],
         "names": [
@@ -154561,6 +155876,19 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Piadoso aragonés, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },            
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Silencio agradecido, El",
                 "genre": "Comedia",
                 "subgenre": "Palatino",
@@ -154571,6 +155899,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "2"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ventura sin buscalla, La",
+                "genre": "Drama",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -155449,7 +156790,7 @@
             "title": "Beamonte",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 4
                 }
             ]
         },
@@ -155462,7 +156803,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -155494,6 +156835,19 @@
                 "Period": "Senectud (c. 1630-1635)",
                 "Type": "Entidad política",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Silencio agradecido, El",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Colección de diferentes autores. Parte XXXI",
+                "Publication date": "1638",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
         ]
     },
@@ -156833,7 +158187,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -161662,7 +163016,7 @@
             "title": "Generalife",
             "occurrences": [
                 {
-                    "value": 3
+                    "value": 5
                 }
             ]
         },
@@ -161675,7 +163029,7 @@
         },
         "descriptions": [
             {
-                "value": "3 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -161707,6 +163061,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
                 "occurrences": "3"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Primer Fajardo, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte VII",
+                "Publication date": "1617",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Calles, edificios, jardines",
+                "occurrences": "2"
             }
         ]
     },
@@ -164270,7 +165637,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -164326,7 +165693,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -164339,7 +165706,7 @@
             },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -164395,7 +165762,7 @@
         "relations": [
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
-                "title": "Príncipe despeinado, El",
+                "title": "Príncipe despenado, El",
                 "genre": "Drama",
                 "subgenre": "Historial profano",
                 "Microgenre": "Hechos particulares",
@@ -164528,7 +165895,7 @@
             "title": "Arévalo",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -164541,7 +165908,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -164570,6 +165937,19 @@
                 "Book title": "Parte XI",
                 "Publication date": "1618",
                 "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Querer la propia desdicha",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1615-1629",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
@@ -168113,7 +169493,7 @@
             "title": "Gradas",
             "occurrences": [
                 {
-                    "value": 4
+                    "value": 5
                 }
             ]
         },
@@ -168126,7 +169506,7 @@
         },
         "descriptions": [
             {
-                "value": "4 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -168183,6 +169563,19 @@
                 "Date": "1600-1614",
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Calles, edificios, jardines",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Virtud, pobreza y mujer",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
                 "occurrences": "1"
             }
         ]
@@ -169255,7 +170648,7 @@
             "title": "Siquén",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 10
                 }
             ]
         },
@@ -169268,7 +170661,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "10 ocurrencia(s)"
             }
         ],
         "names": [
@@ -169288,6 +170681,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Robo de Dina, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Antiguo Testamento",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "8"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Trabajos de Jacob. Sueños hay que verdad son, Los",
@@ -169380,7 +170786,7 @@
             "title": "Dotaín",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 2
                 }
             ]
         },
@@ -169393,7 +170799,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "2 ocurrencia(s)"
             }
         ],
         "names": [
@@ -169413,6 +170819,19 @@
             }
         ],
         "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Robo de Dina, El",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Antiguo Testamento",
+                "Book title": "Parte XXIII",
+                "Publication date": "1638",
+                "Date": "1615-1629",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
             {
                 "relationType": "gvp:aat2208_locus-setting_for",
                 "title": "Trabajos de Jacob. Sueños hay que verdad son, Los",
@@ -171586,7 +173005,7 @@
             "title": "Rastro",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 3
                 }
             ]
         },
@@ -171599,7 +173018,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "3 ocurrencia(s)"
             }
         ],
         "names": [
@@ -171644,7 +173063,21 @@
                 "Period": "Juventud (c. 1585-1600)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Varona castellana, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte IX",
+                "Publication date": "1619",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
             }
+
         ]
     },
     {
@@ -171711,7 +173144,7 @@
             "title": "Cazalla de la Sierra",
             "occurrences": [
                 {
-                    "value": 2
+                    "value": 4
                 }
             ]
         },
@@ -171724,7 +173157,7 @@
         },
         "descriptions": [
             {
-                "value": "2 ocurrencia(s)"
+                "value": "4 ocurrencia(s)"
             }
         ],
         "names": [
@@ -171767,6 +173200,32 @@
                 "Publication date": "1609",
                 "Date": "1587-1604",
                 "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "San Diego de Alcalá",
+                "genre": "Drama",
+                "subgenre": "Historial religioso",
+                "Microgenre": "Hagiográfico y leyenda",
+                "Book title": "Colección de comedias escogidas. Parte III",
+                "Publication date": "1653",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Victoria de la honra, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XXI",
+                "Publication date": "1635",
+                "Date": "1600-1614",
+                "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
             }
@@ -173858,7 +175317,7 @@
             "title": "Priego",
             "occurrences": [
                 {
-                    "value": 1
+                    "value": 5
                 }
             ]
         },
@@ -173873,7 +175332,7 @@
         },
         "descriptions": [
             {
-                "value": "1 ocurrencia(s)"
+                "value": "5 ocurrencia(s)"
             }
         ],
         "names": [
@@ -173905,6 +175364,19 @@
                 "Period": "Madurez (c. 1600-1630)",
                 "Type": "Entidad política",
                 "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Santa Liga, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XV",
+                "Publication date": "1621",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "4"
             }
         ]
     },
@@ -174487,7 +175959,542 @@
                 "occurrences": "1"
             }
         ]
-    },                                                                                                                                          
+    }, 
+    {
+        "@id": "6537539",
+        "uuid": "https://www.geonames.org/6537539",
+        "type": "Feature",
+        "properties": {
+            "title": "Monteleón",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              15.25805,
+              41.16542
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "6362914",
+        "uuid": "https://www.geonames.org/6362914",
+        "type": "Feature",
+        "properties": {
+            "title": "Rueda",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -1.34808,
+              41.66449
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramírez de Arellano, Los",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XXIV",
+                "Publication date": "1641",
+                "Date": "1595-1609",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },    
+    {
+        "@id": "3122401",
+        "uuid": "https://www.geonames.org/3122401",
+        "type": "Feature",
+        "properties": {
+            "title": "Flores de Ávila",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.07914,
+              40.93358
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Ramilletes de Madrid, Los",
+                "genre": "Comedia",
+                "subgenre": "Urbano",
+                "Microgenre": "",
+                "Book title": "Parte XI",
+                "Publication date": "1618",
+                "Date": "1610-1624",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "6360959",
+        "uuid": "https://www.geonames.org/6360959",
+        "type": "Feature",
+        "properties": {
+            "title": "Alcalá de Guadaíra",
+            "occurrences": [
+                {
+                    "value": 2
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.81642,
+              37.27456
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "2 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Divina vencedora y famosos hechos de Meledín Gallinato y toma de Morón, La",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            },
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Sol parado, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte XVII",
+                "Publication date": "1621",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "2931271/",
+        "uuid": "https://www.geonames.org/2931271/",
+        "type": "Feature",
+        "properties": {
+            "title": "Albis",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              8.72222,
+              53.92222
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "3182820",
+        "uuid": "https://www.geonames.org/3182820",
+        "type": "Feature",
+        "properties": {
+            "title": "Arno",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.28333,
+              43.68333
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Yo me entiendo",
+                "genre": "Comedia",
+                "subgenre": "Palatino",
+                "Microgenre": "",
+                "Book title": "Manuscrito",
+                "Publication date": "Sin fecha",
+                "Date": "1620-1634",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Accidente geográfico",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "3120984",
+        "uuid": "https://www.geonames.org/3120984",
+        "type": "Feature",
+        "properties": {
+            "title": "Guevara",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -2.51175,
+              42.89294
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Testimonio vengado, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos públicos",
+                "Book title": "Parte I",
+                "Publication date": "1604",
+                "Date": "1587-1604",
+                "Period": "Juventud (c. 1585-1600)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    }, 
+    {
+        "@id": "2747351",
+        "uuid": "https://www.geonames.org/2747351",
+        "type": "Feature",
+        "properties": {
+            "title": "Bolduque",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              5.30417,
+              51.69917
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    },
+    {
+        "@id": "6548975",
+        "uuid": "https://www.geonames.org/6548975",
+        "type": "Feature",
+        "properties": {
+            "title": "Vitemberga",
+            "occurrences": [
+                {
+                    "value": 1
+                }
+            ]
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.60603,
+              51.87437
+
+
+            ]
+        },
+        "descriptions": [
+            {
+                "value": "1 ocurrencia(s)"
+            }
+        ],
+        "names": [
+            {
+                "toponym": "Urbano",
+                "lang": "es"
+            }
+        ],
+        "links": [
+            {
+                "type": "closeMatch",
+                "identifier": "https://pleiades.stoa.org/places/746826"
+            },
+            {
+                "type": "closeMatch",
+                "identifier": "http://www.geonames.org/F959375"
+            }
+        ],
+        "relations": [
+            {
+                "relationType": "gvp:aat2208_locus-setting_for",
+                "title": "Valiente Céspedes, El",
+                "genre": "Drama",
+                "subgenre": "Historial profano",
+                "Microgenre": "Hechos particulares",
+                "Book title": "Parte XX",
+                "Publication date": "1625",
+                "Date": "1605-1619",
+                "Period": "Madurez (c. 1600-1630)",
+                "Type": "Entidad política",
+                "occurrences": "1"
+            }
+        ]
+    }, 
     {
         "@id": "3106073",
         "uuid": "https://www.geonames.org/3106073",
