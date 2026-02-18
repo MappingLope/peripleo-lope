@@ -42466,10 +42466,10 @@
       "uuid": "https://www.geonames.org/6545080",
       "type": "Feature",
       "properties": {
-        "title": "Atocha",
+        "title": "Convento de Nuestra Señora de Atocha",
         "occurrences": [
           {
-            "value": 31
+            "value": 13
           }
         ]
       },
@@ -42482,7 +42482,7 @@
       },
       "descriptions": [
         {
-          "value": "31 ocurrencia(s)"
+          "value": "13 ocurrencia(s)"
         }
       ],
       "names": [
@@ -42502,19 +42502,6 @@
         }
       ],
       "relations": [
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Acero de Madrid, El",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XI",
-          "Publication date": "1618",
-          "Date": "1608-1612",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "5"
-        },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Alcaide de Madrid, El",
@@ -42543,45 +42530,6 @@
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Bautismo del príncipe de Marruecos, El",
-          "genre": "Drama",
-          "subgenre": "Historial profano",
-          "Microgenre": "Hechos públicos",
-          "Book title": "Parte XI",
-          "Publication date": "1618",
-          "Date": "1593-1603",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Entidad política",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "De cosario a cosario",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XIX",
-          "Publication date": "1624",
-          "Date": "1617-1619",
-          "Period": "Senectud (c. 1630-1635)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "De cuando acá nos vino",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Colección de diferentes autores. Parte XXIV",
-          "Publication date": "1633",
-          "Date": "1613-1614",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Desposorio encubierto, El",
           "genre": "Comedia",
           "subgenre": "Urbano",
@@ -42590,32 +42538,6 @@
           "Publication date": "1620",
           "Date": "1597-1603",
           "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "2"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Niñez de san Isidro, La",
-          "genre": "Drama",
-          "subgenre": "Historial religioso",
-          "Microgenre": "Hagiográfico y leyenda",
-          "Book title": "Relación de las Fiestas de San Isidro",
-          "Publication date": "1622",
-          "Date": "1622",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "7"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Portuguesa y dicha del forastero, La",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Colección de comedias escogidas. Parte III",
-          "Publication date": "1653",
-          "Date": "1615-1616",
-          "Period": "Senectud (c. 1630-1635)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "2"
         },
@@ -42644,17 +42566,86 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
+        }
+      ]
+    },
+      {
+      "@id": "F564745",
+      "uuid": "https://www.geonames.org/F564745",
+      "type": "Feature",
+      "properties": {
+        "title": "Prado de Atocha",
+        "occurrences": [
+          {
+            "value": 7
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6837,
+          40.4055
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "7 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
         },
         {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/6545080"
+        }
+      ],
+      "relations": [
+                {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Viuda, casada y doncella, La",
+          "title": "Acero de Madrid, El",
           "genre": "Comedia",
           "subgenre": "Urbano",
           "Microgenre": "",
-          "Book title": "Parte VII",
-          "Publication date": "1617",
-          "Date": "1597",
-          "Period": "Juventud (c. 1585-1600)",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1608-1612",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "5"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "De cosario a cosario",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIX",
+          "Publication date": "1624",
+          "Date": "1617-1619",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "De cuando acá nos vino",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Colección de diferentes autores. Parte XXIV",
+          "Publication date": "1633",
+          "Date": "1613-1614",
+          "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
@@ -42668,7 +42659,7 @@
         "title": "Prado",
         "occurrences": [
           {
-            "value": 121
+            "value": 110
           }
         ]
       },
@@ -42681,7 +42672,7 @@
       },
       "descriptions": [
         {
-          "value": "121 ocurrencia(s)"
+          "value": "110 ocurrencia(s)"
         }
       ],
       "names": [
@@ -42751,20 +42742,7 @@
           "Date": "1634",
           "Period": "Senectud (c. 1630-1635)",
           "Type": "Calles, edificios, jardines",
-          "occurrences": "9"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Bizarrías de Belisa, Las",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "La vega del Parnaso",
-          "Publication date": "1637",
-          "Date": "1634",
-          "Period": "Senectud (c. 1630-1635)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
+          "occurrences": "10"
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
@@ -42804,19 +42782,6 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "3"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Dama boba, La",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte IX",
-          "Publication date": "1617",
-          "Date": "1613",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
@@ -42989,19 +42954,6 @@
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Nueva victoria de don Gonzalo de Córdoba, Mayor victoria de Alemania, La",
-          "genre": "Drama",
-          "subgenre": "Historial profano",
-          "Microgenre": "Hechos particulares",
-          "Book title": "La vega del Parnaso",
-          "Publication date": "1637",
-          "Date": "1622",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Prueba de los amigos, La",
           "genre": "Comedia",
           "subgenre": "Urbano",
@@ -43054,19 +43006,6 @@
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Sembrar en buena tierra, El",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte X",
-          "Publication date": "1618",
-          "Date": "1616",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "5"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Servir a señor discreto",
           "genre": "Comedia",
           "subgenre": "Urbano",
@@ -43077,42 +43016,59 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "3"
+        }
+      ]
+    },
+     {
+      "@id": "F695881",
+      "uuid": "https://www.geonames.org/F695881",
+      "type": "Feature",
+      "properties": {
+        "title": "Prado de los Recoletos Agustinos",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.691644,
+          40.422184
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
         },
         {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Si no vieran las mujeres",
-          "genre": "Comedia",
-          "subgenre": "Palatino",
-          "Microgenre": "",
-          "Book title": "La vega del Parnaso",
-          "Publication date": "1637",
-          "Date": "1631-1632",
-          "Period": "Senectud (c. 1630-1635)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "2"
-        },
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/6452756"
+        }
+      ],
+      "relations": [
         {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Villana de Getafe, La",
+          "title": "Dama boba, La",
           "genre": "Comedia",
           "subgenre": "Urbano",
           "Microgenre": "",
-          "Book title": "Parte XIV",
-          "Publication date": "1620",
-          "Date": "1610-1614",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Yerros por amor, Los",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Suelta",
-          "Publication date": "Sin fecha",
-          "Date": "1623-1624",
+          "Book title": "Parte IX",
+          "Publication date": "1617",
+          "Date": "1613",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
@@ -43428,6 +43384,62 @@
         }
       ]
     },
+        {
+      "@id": "F574693",
+      "uuid": "https://www.geonames.org/F574693",
+      "type": "Feature",
+      "properties": {
+        "title": "Carrera de San Jerónimo",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+            },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -3.699967068688258,
+          40.41660746614426
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/No identificado"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Acero de Madrid, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1608-1612",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
     {
       "@id": "316735913",
       "uuid": "https://www.geonames.org/316735913",
@@ -43527,19 +43539,6 @@
       "relations": [
         {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Acero de Madrid, El",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XI",
-          "Publication date": "1618",
-          "Date": "1608-1612",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Al pasar del arroyo",
           "genre": "Comedia",
           "subgenre": "Villano",
@@ -43577,6 +43576,19 @@
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Castigo del discreto, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte VII",
+          "Publication date": "1617",
+          "Date": "1598-1601",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Melindres de Belisa, Los",
@@ -43589,6 +43601,63 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
+        }
+      ]
+    },
+        {
+      "@id": "F6475627",
+      "uuid": "https://www.geonames.org/F6475627",
+      "type": "Feature",
+      "properties": {
+        "title": "Casa-jardin del conde de Monterrey",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6949,
+          40.4175
+
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/6452733"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Noche de san Juan, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XXI",
+          "Publication date": "1635",
+          "Date": "1631",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "2"
         }
       ]
     },
@@ -66615,6 +66684,118 @@
       ]
     },
     {
+      "@id": "1140634",
+      "uuid": "https://www.geonames.org/1140634",
+      "type": "Feature",
+      "properties": {
+        "title": "Puerta de Alcalá",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.688779938759199,
+          40.42020018130837
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Historial religioso",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/6091859"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Desprecio agradecido, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XXV",
+          "Publication date": "1647",
+          "Date": "1633",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+     {
+      "@id": "26575591",
+      "uuid": "https://www.geonames.org/26575591",
+      "type": "Feature",
+      "properties": {
+        "title": "Puerta de Toledo",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7115598594716723,
+          40.40689728489159
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Historial religioso",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/6091859"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "San Isidro Labrador de Madrid y victoria de las Navas de Tolosa por el rey don Alfonso, El",
+          "genre": "Drama",
+          "subgenre": "Historial religioso",
+          "Microgenre": "Hagiográfico y leyenda",
+          "Book title": "Parte VII",
+          "Publication date": "1617",
+          "Date": "1604-1606",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+    {
       "@id": "6255084",
       "uuid": "https://www.geonames.org/6255084",
       "type": "Feature",
@@ -79321,6 +79502,63 @@
         }
       ]
     },
+        {
+      "@id": "F546363",
+      "uuid": "https://www.geonames.org/F546363",
+      "type": "Feature",
+      "properties": {
+        "title": "Colegio de Nuestra Señora de Loreto",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69971,
+          40.41285
+
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/5800864"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Amantes sin amor, Los",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1601-1602",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
     {
       "@id": "6542285",
       "uuid": "https://www.geonames.org/6542285",
@@ -79965,7 +80203,7 @@
         "title": "Convento de San Felipe el Real",
         "occurrences": [
           {
-            "value": 12
+            "value": 10
           }
         ]
       },
@@ -79978,7 +80216,7 @@
       },
       "descriptions": [
         {
-          "value": "12 ocurrencia(s)"
+          "value": "10 ocurrencia(s)"
         }
       ],
       "names": [
@@ -80022,33 +80260,7 @@
           "Date": "1613-1614",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
-          "occurrences": "4"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "De cuando acá nos vino",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Colección de diferentes autores. Parte XXIV",
-          "Publication date": "1633",
-          "Date": "1613-1614",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "2"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "De cuando acá nos vino",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Colección de diferentes autores. Parte XXIV",
-          "Publication date": "1633",
-          "Date": "1613-1614",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "2"
+          "occurrences": "5"
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
@@ -80072,6 +80284,19 @@
           "Book title": "Parte XVIII",
           "Publication date": "1623",
           "Date": "1604-1605",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Venganza venturosa, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte X",
+          "Publication date": "1618",
+          "Date": "1510-1613",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
@@ -93035,62 +93260,6 @@
           "Date": "1632-1635",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Accidente geográfico",
-          "occurrences": "1"
-        }
-      ]
-    },
-    {
-      "@id": "962117",
-      "uuid": "https://www.geonames.org/962117",
-      "type": "Feature",
-      "properties": {
-        "title": "Buen Retiro",
-        "occurrences": [
-          {
-            "value": 1
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.679798,
-          40.420386
-        ]
-      },
-      "descriptions": [
-        {
-          "value": "1 ocurrencia(s)"
-        }
-      ],
-      "names": [
-        {
-          "toponym": "Mitológico",
-          "lang": "es"
-        }
-      ],
-      "links": [
-        {
-          "type": "closeMatch",
-          "identifier": "https://pleiades.stoa.org/places/746826"
-        },
-        {
-          "type": "closeMatch",
-          "identifier": "http://www.geonames.org/962117"
-        }
-      ],
-      "relations": [
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Amor enamorado, El",
-          "genre": "Drama",
-          "subgenre": "Mitológico",
-          "Microgenre": "",
-          "Book title": "La vega del Parnaso",
-          "Publication date": "1637",
-          "Date": "1632-1635",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
       ]
@@ -107235,8 +107404,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.66778,
-          40.4283
+          -3.69558,
+          40.41894
+
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/2424746"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "¡Ay, verdades, que en amor…!",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XXI",
+          "Publication date": "1635",
+          "Date": "1625",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+        {
+      "@id": "F5668367",
+      "uuid": "https://www.geonames.org/F5668367",
+      "type": "Feature",
+      "properties": {
+        "title": "Iglesia del Buen Suceso",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70264,
+          40.41642
+
+
         ]
       },
       "descriptions": [
@@ -126203,7 +126431,7 @@
       "uuid": "https://www.geonames.org/F57385680",
       "type": "Feature",
       "properties": {
-        "title": "Monasterio de Corpus Christi",
+        "title": "Convento de Corpus Christi",
         "occurrences": [
           {
             "value": 1
@@ -131305,7 +131533,7 @@
         "title": "San Martín",
         "occurrences": [
           {
-            "value": 5
+            "value": 4
           }
         ]
       },
@@ -131318,7 +131546,7 @@
       },
       "descriptions": [
         {
-          "value": "5 ocurrencia(s)"
+          "value": "4 ocurrencia(s)"
         }
       ],
       "names": [
@@ -131350,19 +131578,6 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "3"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "No son todos ruiseñores",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XXII",
-          "Publication date": "1635",
-          "Date": "1630",
-          "Period": "Senectud (c. 1630-1635)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
@@ -135250,7 +135465,7 @@
         "title": "Puente de Segovia",
         "occurrences": [
           {
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -135263,7 +135478,7 @@
       },
       "descriptions": [
         {
-          "value": "1 ocurrencia(s)"
+          "value": "3 ocurrencia(s)"
         }
       ],
       "names": [
@@ -135283,6 +135498,19 @@
         }
       ],
       "relations": [
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Amantes sin amor, Los",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1601-1602",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Dama boba, La",
@@ -135295,7 +135523,89 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Gallarda toledana, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1603",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
         }
+      ]
+    },
+    {
+      "@id": "3845616",
+      "uuid": "https://www.geonames.org/3845616",
+      "type": "Feature",
+      "properties": {
+        "title": "Puente de Toledo",
+        "occurrences": [
+          {
+            "value": 2
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7149782189925427,
+          40.39981488048556
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "2 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/2838423"
+        }
+      ],
+      "relations": [
+                 {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "De cosario a cosario",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIX",
+          "Publication date": "1624",
+          "Date": "1617-1619",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                  {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Santiago el verde",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIII",
+          "Publication date": "1620",
+          "Date": "1615",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }     
       ]
     },
     {
@@ -135415,7 +135725,128 @@
       "uuid": "https://www.geonames.org/9023478",
       "type": "Feature",
       "properties": {
-        "title": "Puerta de Guadalajara y Platería",
+        "title": "Puerta de Guadalajara",
+        "occurrences": [
+          {
+            "value": 6
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708711,
+          40.41595
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "6 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/9023478"
+        }
+      ],
+      "relations": [
+                        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Acero de Madrid, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1608-1612",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Al pasar del arroyo",
+          "genre": "Comedia",
+          "subgenre": "Villano",
+          "Microgenre": "",
+          "Book title": "Parte XII",
+          "Publication date": "1619",
+          "Date": "1616",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Burgalesa de Lerma, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte X",
+          "Publication date": "1618",
+          "Date": "1613",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "De cosario a cosario",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIX",
+          "Publication date": "1624",
+          "Date": "1617-1619",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Quien ama no haga fieros",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XVIII",
+          "Publication date": "1623",
+          "Date": "1620-1622",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Ramilletes de Madrid, Los",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1615",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+     {
+      "@id": "9023478",
+      "uuid": "https://www.geonames.org/9023478",
+      "type": "Feature",
+      "properties": {
+        "title": "Platería",
         "occurrences": [
           {
             "value": 4
@@ -135451,15 +135882,15 @@
         }
       ],
       "relations": [
-        {
+                                {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Al pasar del arroyo",
+          "title": "Burgalesa de Lerma, La",
           "genre": "Comedia",
-          "subgenre": "Villano",
+          "subgenre": "Urbano",
           "Microgenre": "",
-          "Book title": "Parte XII",
-          "Publication date": "1619",
-          "Date": "1616",
+          "Book title": "Parte X",
+          "Publication date": "1618",
+          "Date": "1613",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
@@ -135486,19 +135917,6 @@
           "Book title": "Manuscrito",
           "Publication date": "Sin fecha",
           "Date": "1604",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Quien ama no haga fieros",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XVIII",
-          "Publication date": "1623",
-          "Date": "1620-1622",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
@@ -135992,7 +136410,7 @@
         "title": "Puerta del Sol",
         "occurrences": [
           {
-            "value": 3
+            "value": 4
           }
         ]
       },
@@ -136005,7 +136423,7 @@
       },
       "descriptions": [
         {
-          "value": "3 ocurrencia(s)"
+          "value": "4 ocurrencia(s)"
         }
       ],
       "names": [
@@ -136061,6 +136479,19 @@
           "Publication date": "Sin fecha",
           "Date": "1585-1595",
           "Period": "Juventud (c. 1585-1600)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Ramilletes de Madrid, Los",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1615",
+          "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
@@ -137903,8 +138334,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7008916666667,
-          40.418941666667
+            -3.69564,
+          40.41762
+
         ]
       },
       "descriptions": [
@@ -145136,7 +145568,7 @@
         "title": "San Ginés",
         "occurrences": [
           {
-            "value": 2
+            "value": 4
           }
         ]
       },
@@ -145149,7 +145581,7 @@
       },
       "descriptions": [
         {
-          "value": "2 ocurrencia(s)"
+          "value": "4 ocurrencia(s)"
         }
       ],
       "names": [
@@ -145192,6 +145624,32 @@
           "Publication date": "Sin fecha",
           "Date": "1595-1598",
           "Period": "Juventud (c. 1585-1600)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Prueba de los amigos, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Manuscrito",
+          "Publication date": "Sin fecha",
+          "Date": "1604",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Quien todo lo quiere",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XXII",
+          "Publication date": "1635",
+          "Date": "1618-1619",
+          "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
@@ -145258,7 +145716,7 @@
       "uuid": "https://www.geonames.org/20021057",
       "type": "Feature",
       "properties": {
-        "title": "calle de la Oliva",
+        "title": "calle del Olivo",
         "occurrences": [
           {
             "value": 1
@@ -145268,8 +145726,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.70418,
-          40.419765
+           -3.70439,
+          40.41939
+
         ]
       },
       "descriptions": [
@@ -145310,6 +145769,257 @@
       ]
     },
     {
+      "@id": "F1245267",
+      "uuid": "https://www.geonames.org/F1245267",
+      "type": "Feature",
+      "properties": {
+        "title": "Calle de la Pasión",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7081,
+          40.41098
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/20021057"
+        }
+      ],
+      "relations": [
+               {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Gallarda toledana, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1603",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+    {
+      "@id": "F1245267",
+      "uuid": "https://www.geonames.org/F1245267",
+      "type": "Feature",
+      "properties": {
+        "title": "Hospital de la Pasión dedicado a la Concepcion de Nuestra Señora",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69471,
+          40.40959
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/20021057"
+        }
+      ],
+      "relations": [
+               {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Gallarda toledana, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1603",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+      {
+      "@id": "F5637267",
+      "uuid": "https://www.geonames.org/F5637267",
+      "type": "Feature",
+      "properties": {
+        "title": "Huerta del Duque",
+        "occurrences": [
+          {
+            "value": 3
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69475,
+          40.41457
+
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "3 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/20021057"
+        }
+      ],
+      "relations": [
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Acero de Madrid, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1608-1612",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Burgalesa de Lerma, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte X",
+          "Publication date": "1618",
+          "Date": "1613",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Castigo del discreto, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte VII",
+          "Publication date": "1617",
+          "Date": "1598-1601",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+    {
+      "@id": "F4563759",
+      "uuid": "https://www.geonames.org/F4563759",
+      "type": "Feature",
+      "properties": {
+        "title": "Casa Palacio",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7233892459779385,
+          40.419326160748525
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/20021057"
+        }
+      ],
+      "relations": [
+               {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Gallarda toledana, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1603",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+    {
       "@id": "5117763",
       "uuid": "https://www.geonames.org/5117763",
       "type": "Feature",
@@ -145317,7 +146027,7 @@
         "title": "Nuestra Señora del Carmen",
         "occurrences": [
           {
-            "value": 4
+            "value": 3
           }
         ]
       },
@@ -145330,7 +146040,7 @@
       },
       "descriptions": [
         {
-          "value": "4 ocurrencia(s)"
+          "value": "3 ocurrencia(s)"
         }
       ],
       "names": [
@@ -145375,19 +146085,6 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "2"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Melindres de Belisa, Los",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte IX",
-          "Publication date": "1617",
-          "Date": "1608",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Entidad política",
-          "occurrences": "1"
         }
       ]
     },
@@ -145508,10 +146205,10 @@
       "uuid": "https://www.geonames.org/27245754",
       "type": "Feature",
       "properties": {
-        "title": "Victoria",
+        "title": "Nuestra Señora de la Victoria",
         "occurrences": [
           {
-            "value": 2
+            "value": 5
           }
         ]
       },
@@ -145524,7 +146221,7 @@
       },
       "descriptions": [
         {
-          "value": "2 ocurrencia(s)"
+          "value": "5 ocurrencia(s)"
         }
       ],
       "names": [
@@ -145559,14 +146256,109 @@
         },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Juan de Dios y Antón Martín",
-          "genre": "Drama",
-          "subgenre": "Historial religioso",
-          "Microgenre": "Hagiográfico y leyenda",
-          "Book title": "Parte X",
-          "Publication date": "1618",
-          "Date": "1611-1612",
+          "title": "De cosario a cosario",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIX",
+          "Publication date": "1624",
+          "Date": "1617-1619",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Castigo del discreto, El",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte VII",
+          "Publication date": "1617",
+          "Date": "1598-1601",
           "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Bizarrías de Belisa, Las",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "La vega del Parnaso",
+          "Publication date": "1637",
+          "Date": "1634",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Noche de san Juan, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XXI",
+          "Publication date": "1635",
+          "Date": "1631",
+          "Period": "Senectud (c. 1630-1635)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
+        }
+      ]
+    },
+        {
+      "@id": "F5668367",
+      "uuid": "https://www.geonames.org/F5668367",
+      "type": "Feature",
+      "properties": {
+        "title": "Hospital de la Corte de la Caridad de Nuestra Señora del Buen Suceso",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70264,
+          40.41642
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/27245754"
+        }
+      ],
+      "relations": [
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Noche de san Juan, La",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XXI",
+          "Publication date": "1635",
+          "Date": "1631",
+          "Period": "Senectud (c. 1630-1635)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
@@ -145577,10 +146369,10 @@
       "uuid": "https://www.geonames.org/16552537",
       "type": "Feature",
       "properties": {
-        "title": "Santa María de la Almudena",
+        "title": "Santa María",
         "occurrences": [
           {
-            "value": 4
+            "value": 5
           }
         ]
       },
@@ -145593,7 +146385,7 @@
       },
       "descriptions": [
         {
-          "value": "4 ocurrencia(s)"
+          "value": "5 ocurrencia(s)"
         }
       ],
       "names": [
@@ -145638,6 +146430,19 @@
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Calles, edificios, jardines",
           "occurrences": "3"
+        },
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "San Isidro Labrador de Madrid y victoria de las Navas de Tolosa por el rey don Alfonso, El",
+          "genre": "Drama",
+          "subgenre": "Historial religioso",
+          "Microgenre": "Hagiográfico y leyenda",
+          "Book title": "Parte VII",
+          "Publication date": "1617",
+          "Date": "1604-1606",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
+          "occurrences": "1"
         }
       ]
     },
@@ -147631,8 +148436,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.032892800784065,
-          39.858959978538074
+          -3.71214,
+          40.42089
+
         ]
       },
       "descriptions": [
@@ -147737,62 +148543,6 @@
           "Date": "1631",
           "Period": "Senectud (c. 1630-1635)",
           "Type": "Accidente geográfico",
-          "occurrences": "1"
-        }
-      ]
-    },
-    {
-      "@id": "5736305",
-      "uuid": "https://www.geonames.org/No identificado",
-      "type": "Feature",
-      "properties": {
-        "title": "Convento de la Pasión",
-        "occurrences": [
-          {
-            "value": 1
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.708228,
-          40.411161
-        ]
-      },
-      "descriptions": [
-        {
-          "value": "1 ocurrencia(s)"
-        }
-      ],
-      "names": [
-        {
-          "toponym": "Urbano",
-          "lang": "es"
-        }
-      ],
-      "links": [
-        {
-          "type": "closeMatch",
-          "identifier": "https://pleiades.stoa.org/places/746826"
-        },
-        {
-          "type": "closeMatch",
-          "identifier": "http://www.geonames.org/No identificado"
-        }
-      ],
-      "relations": [
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Gallarda toledana, La",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XIV",
-          "Publication date": "1620",
-          "Date": "1603",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
       ]
@@ -151204,7 +151954,7 @@
         "title": "Plaza Mayor",
         "occurrences": [
           {
-            "value": 4
+            "value": 1
           }
         ]
       },
@@ -151217,7 +151967,7 @@
       },
       "descriptions": [
         {
-          "value": "4 ocurrencia(s)"
+          "value": "1 ocurrencia(s)"
         }
       ],
       "names": [
@@ -151237,45 +151987,6 @@
         }
       ],
       "relations": [
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Hamete de Toledo, El",
-          "genre": "Drama",
-          "subgenre": "Historial profano",
-          "Microgenre": "Hechos públicos",
-          "Book title": "Parte IX",
-          "Publication date": "1617",
-          "Date": "1608-1610",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Ramilletes de Madrid, Los",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XI",
-          "Publication date": "1618",
-          "Date": "1615",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
-        {
-          "relationType": "gvp:aat2208_locus-setting_for",
-          "title": "Ramilletes de Madrid, Los",
-          "genre": "Comedia",
-          "subgenre": "Urbano",
-          "Microgenre": "",
-          "Book title": "Parte XI",
-          "Publication date": "1618",
-          "Date": "1615",
-          "Period": "Madurez (c. 1600-1630)",
-          "Type": "Calles, edificios, jardines",
-          "occurrences": "1"
-        },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Ramilletes de Madrid, Los",
@@ -167083,6 +167794,62 @@
         }
       ]
     },
+        {
+      "@id": "733389",
+      "uuid": "https://www.geonames.org/733389",
+      "type": "Feature",
+      "properties": {
+        "title": "Villacayana",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.055556,
+          43.816389
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Palatino",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/733389"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Quinta de Florencia, La",
+          "genre": "Drama",
+          "subgenre": "Palatino",
+          "Microgenre": "",
+          "Book title": "Parte II",
+          "Publication date": "1609",
+          "Date": "1600",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Entidad política",
+          "occurrences": "1"
+        }
+      ]
+    },
     {
       "@id": "6359284",
       "uuid": "https://www.geonames.org/6359284",
@@ -167135,6 +167902,62 @@
           "Date": "1615",
           "Period": "Madurez (c. 1600-1630)",
           "Type": "Entidad política",
+          "occurrences": "1"
+        }
+      ]
+    },
+    {
+      "@id": "F4625752",
+      "uuid": "https://www.geonames.org/F4625752",
+      "type": "Feature",
+      "properties": {
+        "title": "Calle Imperial",
+        "occurrences": [
+          {
+            "value": 1
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7071551629624353,
+          40.41446413187152
+        ]
+      },
+      "descriptions": [
+        {
+          "value": "1 ocurrencia(s)"
+        }
+      ],
+      "names": [
+        {
+          "toponym": "Urbano",
+          "lang": "es"
+        }
+      ],
+      "links": [
+        {
+          "type": "closeMatch",
+          "identifier": "https://pleiades.stoa.org/places/746826"
+        },
+        {
+          "type": "closeMatch",
+          "identifier": "http://www.geonames.org/6359284"
+        }
+      ],
+      "relations": [
+        {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Ramilletes de Madrid, Los",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XI",
+          "Publication date": "1618",
+          "Date": "1615",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Calles, edificios, jardines",
           "occurrences": "1"
         }
       ]
@@ -173421,7 +174244,7 @@
         "title": "Rastro",
         "occurrences": [
           {
-            "value": 3
+            "value": 4
           }
         ]
       },
@@ -173434,7 +174257,7 @@
       },
       "descriptions": [
         {
-          "value": "3 ocurrencia(s)"
+          "value": "4 ocurrencia(s)"
         }
       ],
       "names": [
@@ -173454,6 +174277,19 @@
         }
       ],
       "relations": [
+                {
+          "relationType": "gvp:aat2208_locus-setting_for",
+          "title": "Amantes sin amor, Los",
+          "genre": "Comedia",
+          "subgenre": "Urbano",
+          "Microgenre": "",
+          "Book title": "Parte XIV",
+          "Publication date": "1620",
+          "Date": "1601-1602",
+          "Period": "Madurez (c. 1600-1630)",
+          "Type": "Entidad política",
+          "occurrences": "1"
+        },
         {
           "relationType": "gvp:aat2208_locus-setting_for",
           "title": "Al pasar del arroyo",
